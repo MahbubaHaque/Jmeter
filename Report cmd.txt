@@ -1,0 +1,8 @@
+jmeter -n -t "location of test file" -l "location of result file" -e -o "location of report folder"
+
+https://blazedemo.com/ 
+[jmeter -n -t "F:\SQA\jMeter\Blaze demo\blazedemo.jmx" -l "F:\SQA\jMeter\Blaze demo\Report\BlazeDemo result.csv" -e -o "F:\SQA\jMeter\Blaze demo\Report\report1"]
+
+
+https://lifecharger.org/
+jmeter -n -t "F:\SQA\jMeter\Life charger\Life charger.jmx" -l "F:\SQA\jMeter\Life charger\LifeCharger result.csv" -e -o "F:\SQA\jMeter\Life charger\Report\report1"

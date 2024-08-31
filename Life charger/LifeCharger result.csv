@@ -1,0 +1,711 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1643185858383,5484,Home page,500,Internal Server Error,Thread Group 1-12,text,false,,895,120,200,200,https://lifecharger.org/,5234,0,2835
+1643185858623,5263,Home page,500,Internal Server Error,Thread Group 1-22,text,false,,895,120,200,200,https://lifecharger.org/,5116,0,2572
+1643185859058,4829,Home page,500,Internal Server Error,Thread Group 1-40,text,false,,895,120,200,200,https://lifecharger.org/,4785,0,2165
+1643185858433,5461,Home page,500,Internal Server Error,Thread Group 1-14,text,false,,895,120,200,200,https://lifecharger.org/,5409,0,2785
+1643185859477,4422,Home page,500,Internal Server Error,Thread Group 1-55,text,false,,895,120,200,200,https://lifecharger.org/,4291,0,1733
+1643185859111,4790,Home page,500,Internal Server Error,Thread Group 1-42,text,false,,895,120,200,200,https://lifecharger.org/,4656,0,2112
+1643185858843,5065,Home page,500,Internal Server Error,Thread Group 1-31,text,false,,895,120,200,200,https://lifecharger.org/,4915,0,2372
+1643185859593,4340,Home page,500,Internal Server Error,Thread Group 1-59,text,false,,895,120,200,200,https://lifecharger.org/,4339,0,1654
+1643185858525,5434,Home page,500,Internal Server Error,Thread Group 1-18,text,false,,895,120,200,200,https://lifecharger.org/,5434,0,2723
+1643185858746,5216,Home page,500,Internal Server Error,Thread Group 1-27,text,false,,895,120,200,200,https://lifecharger.org/,5216,0,2450
+1643185859405,4753,Home page,500,Internal Server Error,Thread Group 1-52,text,false,,895,120,200,200,https://lifecharger.org/,4752,0,1783
+1643185859784,4395,Home page,500,Internal Server Error,Thread Group 1-63,text,false,,895,120,200,200,https://lifecharger.org/,4394,0,1562
+1643185859979,4232,Home page,500,Internal Server Error,Thread Group 1-75,text,false,,895,120,200,200,https://lifecharger.org/,4230,0,1816
+1643185858935,5294,Home page,500,Internal Server Error,Thread Group 1-35,text,false,,895,120,200,200,https://lifecharger.org/,5293,0,2318
+1643185858320,6042,Home page,500,Internal Server Error,Thread Group 1-4,text,false,,895,120,200,200,https://lifecharger.org/,6042,0,2944
+1643185858320,6114,Home page,500,Internal Server Error,Thread Group 1-9,text,false,,895,120,200,200,https://lifecharger.org/,6113,0,2917
+1643185859895,4538,Home page,500,Internal Server Error,Thread Group 1-71,text,false,,895,120,200,200,https://lifecharger.org/,4538,0,1738
+1643185859561,4972,Home page,500,Internal Server Error,Thread Group 1-58,text,false,,895,120,200,200,https://lifecharger.org/,4971,0,1665
+1643185859890,4657,Home page,500,Internal Server Error,Thread Group 1-68,text,false,,895,120,200,200,https://lifecharger.org/,4656,0,1709
+1643185858358,6250,Home page,500,Internal Server Error,Thread Group 1-11,text,false,,895,120,200,200,https://lifecharger.org/,6249,0,2899
+1643185860098,4522,Home page,500,Internal Server Error,Thread Group 1-78,text,false,,895,120,200,200,https://lifecharger.org/,4521,0,1981
+1643185859341,5300,Home page,500,Internal Server Error,Thread Group 1-49,text,false,,895,120,200,200,https://lifecharger.org/,5299,0,1868
+1643185858696,6000,Home page,500,Internal Server Error,Thread Group 1-25,text,false,,895,120,200,200,https://lifecharger.org/,5999,0,2519
+1643185859956,4740,Home page,500,Internal Server Error,Thread Group 1-74,text,false,,895,120,200,200,https://lifecharger.org/,4739,0,1839
+1643185858727,6541,Home page,500,Internal Server Error,Thread Group 1-26,text,false,,895,120,200,200,https://lifecharger.org/,6540,0,2579
+1643185859229,6097,Home page,500,Internal Server Error,Thread Group 1-46,text,false,,895,120,200,200,https://lifecharger.org/,6096,0,1983
+1643185860883,4454,Home page,500,Internal Server Error,Thread Group 1-110,text,false,,895,120,200,200,https://lifecharger.org/,4453,0,2548
+1643185860104,5399,Home page,500,Internal Server Error,Thread Group 1-80,text,false,,895,120,200,200,https://lifecharger.org/,5398,0,2021
+1643185860573,4952,Home page,500,Internal Server Error,Thread Group 1-92,text,false,,895,120,200,200,https://lifecharger.org/,4951,0,1913
+1643185860570,4957,Home page,500,Internal Server Error,Thread Group 1-85,text,false,,895,120,200,200,https://lifecharger.org/,4956,0,1871
+1643185859891,5640,Home page,500,Internal Server Error,Thread Group 1-69,text,false,,895,120,200,200,https://lifecharger.org/,5639,0,1721
+1643185859905,5627,Home page,500,Internal Server Error,Thread Group 1-72,text,false,,895,120,200,200,https://lifecharger.org/,5626,0,1792
+1643185860679,4856,Home page,500,Internal Server Error,Thread Group 1-98,text,false,,895,120,200,200,https://lifecharger.org/,4855,0,1818
+1643185858649,6888,Home page,500,Internal Server Error,Thread Group 1-23,text,false,,895,120,200,200,https://lifecharger.org/,6887,0,2608
+1643185859198,6347,Home page,500,Internal Server Error,Thread Group 1-45,text,false,,895,120,200,200,https://lifecharger.org/,6346,0,2065
+1643185860575,4971,Home page,500,Internal Server Error,Thread Group 1-88,text,false,,895,120,200,200,https://lifecharger.org/,4970,0,1883
+1643185860689,4864,Home page,500,Internal Server Error,Thread Group 1-102,text,false,,895,120,200,200,https://lifecharger.org/,4863,0,2257
+1643185860833,4720,Home page,500,Internal Server Error,Thread Group 1-108,text,false,,895,120,200,200,https://lifecharger.org/,4719,0,2403
+1643185860707,4849,Home page,500,Internal Server Error,Thread Group 1-103,text,false,,895,120,200,200,https://lifecharger.org/,4848,0,2229
+1643185860687,4871,Home page,500,Internal Server Error,Thread Group 1-101,text,false,,895,120,200,200,https://lifecharger.org/,4870,0,2268
+1643185860733,4828,Home page,500,Internal Server Error,Thread Group 1-104,text,false,,895,120,200,200,https://lifecharger.org/,4826,0,2213
+1643185860807,4756,Home page,500,Internal Server Error,Thread Group 1-107,text,false,,895,120,200,200,https://lifecharger.org/,4755,0,2641
+1643185860671,4898,Home page,500,Internal Server Error,Thread Group 1-96,text,false,,895,120,200,200,https://lifecharger.org/,4897,0,1821
+1643185860567,5004,Home page,500,Internal Server Error,Thread Group 1-90,text,false,,895,120,200,200,https://lifecharger.org/,5003,0,1879
+1643185860685,4892,Home page,500,Internal Server Error,Thread Group 1-99,text,false,,895,120,200,200,https://lifecharger.org/,4891,0,2203
+1643185860757,4820,Home page,500,Internal Server Error,Thread Group 1-105,text,false,,895,120,200,200,https://lifecharger.org/,4819,0,2277
+1643185860571,5017,Home page,500,Internal Server Error,Thread Group 1-91,text,false,,895,120,200,200,https://lifecharger.org/,5016,0,1897
+1643185860575,5024,Home page,500,Internal Server Error,Thread Group 1-94,text,false,,895,120,200,200,https://lifecharger.org/,5023,0,1891
+1643185860796,4820,Home page,500,Internal Server Error,Thread Group 1-106,text,false,,895,120,200,200,https://lifecharger.org/,4818,0,1982
+1643185860570,5053,Home page,500,Internal Server Error,Thread Group 1-89,text,false,,895,120,200,200,https://lifecharger.org/,5052,0,1867
+1643185860857,4786,Home page,500,Internal Server Error,Thread Group 1-109,text,false,,895,120,200,200,https://lifecharger.org/,4785,0,2589
+1643185860567,5083,Home page,500,Internal Server Error,Thread Group 1-83,text,false,,895,120,200,200,https://lifecharger.org/,5082,0,1878
+1643185860536,5120,Home page,500,Internal Server Error,Thread Group 1-95,text,false,,895,120,200,200,https://lifecharger.org/,5120,0,1824
+1643185860565,5105,Home page,500,Internal Server Error,Thread Group 1-82,text,false,,895,120,200,200,https://lifecharger.org/,5105,0,1887
+1643185860549,5149,Home page,500,Internal Server Error,Thread Group 1-81,text,false,,895,120,200,200,https://lifecharger.org/,5148,0,1855
+1643185860558,5142,Home page,500,Internal Server Error,Thread Group 1-86,text,false,,895,120,200,200,https://lifecharger.org/,5142,0,1850
+1643185860573,5127,Home page,500,Internal Server Error,Thread Group 1-87,text,false,,895,120,200,200,https://lifecharger.org/,5127,0,1867
+1643185860577,5142,Home page,500,Internal Server Error,Thread Group 1-93,text,false,,895,120,200,200,https://lifecharger.org/,5141,0,1879
+1643185860084,5653,Home page,500,Internal Server Error,Thread Group 1-77,text,false,,895,120,200,200,https://lifecharger.org/,5652,0,2005
+1643185859809,5964,Home page,500,Internal Server Error,Thread Group 1-66,text,false,,895,120,200,200,https://lifecharger.org/,5963,0,1610
+1643185859363,6433,Home page,500,Internal Server Error,Thread Group 1-50,text,false,,895,120,200,200,https://lifecharger.org/,6431,0,1901
+1643185860055,5756,Home page,500,Internal Server Error,Thread Group 1-76,text,false,,895,120,200,200,https://lifecharger.org/,5755,0,1979
+1643185859781,6047,Home page,500,Internal Server Error,Thread Group 1-64,text,false,,895,120,200,200,https://lifecharger.org/,6045,0,1595
+1643185859894,5945,Home page,500,Internal Server Error,Thread Group 1-70,text,false,,895,120,200,200,https://lifecharger.org/,5943,0,1773
+1643185859034,6812,Home page,500,Internal Server Error,Thread Group 1-39,text,false,,895,120,200,200,https://lifecharger.org/,6812,0,2219
+1643185859083,6763,Home page,500,Internal Server Error,Thread Group 1-41,text,false,,895,120,200,200,https://lifecharger.org/,6763,0,2158
+1643185859384,6464,Home page,500,Internal Server Error,Thread Group 1-51,text,false,,895,120,200,200,https://lifecharger.org/,6464,0,1849
+1643185860090,5759,Home page,500,Internal Server Error,Thread Group 1-79,text,false,,895,120,200,200,https://lifecharger.org/,5759,0,2083
+1643185859451,6423,Home page,500,Internal Server Error,Thread Group 1-54,text,false,,895,120,200,200,https://lifecharger.org/,6422,0,1763
+1643185858321,7562,Home page,500,Internal Server Error,Thread Group 1-7,text,false,,895,120,200,200,https://lifecharger.org/,7562,0,2890
+1643185858825,7069,Home page,500,Internal Server Error,Thread Group 1-30,text,false,,895,120,200,200,https://lifecharger.org/,7068,0,2426
+1643185859800,6127,Home page,500,Internal Server Error,Thread Group 1-67,text,false,,895,120,200,200,https://lifecharger.org/,6127,0,1598
+1643185858475,7486,Home page,500,Internal Server Error,Thread Group 1-16,text,false,,895,120,200,200,https://lifecharger.org/,7485,0,2733
+1643185858321,7651,Home page,500,Internal Server Error,Thread Group 1-1,text,false,,895,120,200,200,https://lifecharger.org/,7651,0,2938
+1643185859806,6225,Home page,500,Internal Server Error,Thread Group 1-62,text,false,,895,120,200,200,https://lifecharger.org/,6224,0,1600
+1643185859931,6104,Home page,500,Internal Server Error,Thread Group 1-73,text,false,,895,120,200,200,https://lifecharger.org/,6103,0,1766
+1643185859327,6717,Home page,500,Internal Server Error,Thread Group 1-48,text,false,,895,120,200,200,https://lifecharger.org/,6717,0,1940
+1643185858550,7501,Home page,500,Internal Server Error,Thread Group 1-19,text,false,,895,120,200,200,https://lifecharger.org/,7501,0,2708
+1643185858324,7753,Home page,500,Internal Server Error,Thread Group 1-5,text,false,,895,120,200,200,https://lifecharger.org/,7752,0,2939
+1643185860686,5403,Home page,500,Internal Server Error,Thread Group 1-100,text,false,,895,120,200,200,https://lifecharger.org/,5402,0,2292
+1643185863015,3094,Home page,500,Internal Server Error,Thread Group 1-198,text,false,,895,120,200,200,https://lifecharger.org/,3094,0,1207
+1643185858984,7300,Home page,500,Internal Server Error,Thread Group 1-37,text,false,,895,120,200,200,https://lifecharger.org/,7299,0,2282
+1643185859526,6815,Home page,500,Internal Server Error,Thread Group 1-57,text,false,,895,120,200,200,https://lifecharger.org/,6814,0,1732
+1643185862590,3819,Home page,500,Internal Server Error,Thread Group 1-181,text,false,,895,120,200,200,https://lifecharger.org/,3818,0,1698
+1643185863888,2534,Archives,500,Internal Server Error,Thread Group 1-40,text,false,,895,128,200,200,https://lifecharger.org/archives,2533,0,1409
+1643185861829,4718,Home page,500,Internal Server Error,Thread Group 1-148,text,false,,895,120,200,200,https://lifecharger.org/,4716,0,2467
+1643185861282,5295,Home page,500,Internal Server Error,Thread Group 1-126,text,false,,895,120,200,200,https://lifecharger.org/,5294,0,2997
+1643185861409,5239,Home page,500,Internal Server Error,Thread Group 1-130,text,false,,895,120,200,200,https://lifecharger.org/,5238,0,2730
+1643185862663,4021,Home page,500,Internal Server Error,Thread Group 1-184,text,false,,895,120,200,200,https://lifecharger.org/,4020,0,1625
+1643185861256,5516,Home page,500,Internal Server Error,Thread Group 1-125,text,false,,895,120,200,200,https://lifecharger.org/,5516,0,2882
+1643185860569,6386,Home page,500,Internal Server Error,Thread Group 1-84,text,false,,895,120,200,200,https://lifecharger.org/,6385,0,1880
+1643185860961,6025,Home page,500,Internal Server Error,Thread Group 1-113,text,false,,895,120,200,200,https://lifecharger.org/,6024,0,2985
+1643185862989,4022,Home page,500,Internal Server Error,Thread Group 1-197,text,false,,895,120,200,200,https://lifecharger.org/,4021,0,1247
+1643185862151,4946,Home page,500,Internal Server Error,Thread Group 1-163,text,false,,895,120,200,200,https://lifecharger.org/,4945,0,1990
+1643185862078,5033,Home page,500,Internal Server Error,Thread Group 1-160,text,false,,895,120,200,200,https://lifecharger.org/,5032,0,2119
+1643185861946,5173,Home page,500,Internal Server Error,Thread Group 1-154,text,false,,895,120,200,200,https://lifecharger.org/,5172,0,2189
+1643185861136,5990,Home page,500,Internal Server Error,Thread Group 1-120,text,false,,895,120,200,200,https://lifecharger.org/,5988,0,3091
+1643185861605,5528,Home page,500,Internal Server Error,Thread Group 1-140,text,false,,895,120,200,200,https://lifecharger.org/,5526,0,2416
+1643185861874,5313,Home page,500,Internal Server Error,Thread Group 1-151,text,false,,895,120,200,200,https://lifecharger.org/,5312,0,2330
+1643185861554,5636,Home page,500,Internal Server Error,Thread Group 1-138,text,false,,895,120,200,200,https://lifecharger.org/,5635,0,2724
+1643185864698,2700,Archives,500,Internal Server Error,Thread Group 1-74,text,false,,895,128,200,200,https://lifecharger.org/archives,2698,0,931
+1643185862535,4879,Home page,500,Internal Server Error,Thread Group 1-177,text,false,,895,120,200,200,https://lifecharger.org/,4877,0,1711
+1643185859789,7631,Home page,500,Internal Server Error,Thread Group 1-65,text,false,,895,120,200,200,https://lifecharger.org/,7630,0,1591
+1643185860674,6805,Home page,500,Internal Server Error,Thread Group 1-97,text,false,,895,120,200,200,https://lifecharger.org/,6804,0,1815
+1643185861097,6394,Home page,500,Internal Server Error,Thread Group 1-117,text,false,,895,120,200,200,https://lifecharger.org/,6393,0,2991
+1643185861980,5565,Home page,500,Internal Server Error,Thread Group 1-156,text,false,,895,120,200,200,https://lifecharger.org/,5564,0,2227
+1643185861016,6613,Home page,500,Internal Server Error,Thread Group 1-115,text,false,,895,120,200,200,https://lifecharger.org/,6611,0,3073
+1643185862201,5473,Home page,500,Internal Server Error,Thread Group 1-165,text,false,,895,120,200,200,https://lifecharger.org/,5472,0,2082
+1643185861923,5754,Home page,500,Internal Server Error,Thread Group 1-153,text,false,,895,120,200,200,https://lifecharger.org/,5747,0,2364
+1643185862722,4993,Home page,500,Internal Server Error,Thread Group 1-186,text,false,,895,120,200,200,https://lifecharger.org/,4992,0,1577
+1643185860907,6839,Home page,500,Internal Server Error,Thread Group 1-111,text,false,,895,120,200,200,https://lifecharger.org/,6838,0,3024
+1643185862398,5393,Home page,500,Internal Server Error,Thread Group 1-173,text,false,,895,120,200,200,https://lifecharger.org/,5392,0,1791
+1643185861186,6682,Home page,500,Internal Server Error,Thread Group 1-122,text,false,,895,120,200,200,https://lifecharger.org/,6681,0,3507
+1643185861357,6550,Home page,500,Internal Server Error,Thread Group 1-128,text,false,,895,120,200,200,https://lifecharger.org/,6549,0,2781
+1643185862030,5983,Home page,500,Internal Server Error,Thread Group 1-158,text,false,,895,120,200,200,https://lifecharger.org/,5982,0,1998
+1643185862639,5443,Home page,500,Internal Server Error,Thread Group 1-183,text,false,,895,120,200,200,https://lifecharger.org/,5442,0,1615
+1643185864622,3464,Archives,500,Internal Server Error,Thread Group 1-78,text,false,,895,128,200,200,https://lifecharger.org/archives,3460,0,985
+1643185861157,7005,Home page,500,Internal Server Error,Thread Group 1-121,text,false,,895,120,200,200,https://lifecharger.org/,7004,0,3814
+1643185862530,5640,Home page,500,Internal Server Error,Thread Group 1-174,text,false,,895,120,200,200,https://lifecharger.org/,5638,0,1605
+1643185861956,6214,Home page,500,Internal Server Error,Thread Group 1-155,text,false,,895,120,200,200,https://lifecharger.org/,6213,0,2342
+1643185862249,6022,Home page,500,Internal Server Error,Thread Group 1-167,text,false,,895,120,200,200,https://lifecharger.org/,6021,0,2022
+1643185862534,5782,Home page,500,Internal Server Error,Thread Group 1-176,text,false,,895,120,200,200,https://lifecharger.org/,5781,0,1602
+1643185861207,7111,Home page,500,Internal Server Error,Thread Group 1-123,text,false,,895,120,200,200,https://lifecharger.org/,7110,0,3763
+1643185859195,9157,Home page,200,OK,Thread Group 1-44,text,true,,46041,120,200,200,https://lifecharger.org/,8628,0,1985
+1643185858574,9797,Home page,200,OK,Thread Group 1-20,text,true,,46041,120,200,200,https://lifecharger.org/,9249,0,2607
+1643185868372,7,Archives,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: lifecharger.org:443 failed to respond,Thread Group 1-20,text,false,,2085,0,200,200,https://lifecharger.org/archives,0,0,0
+1643185868353,69,Archives,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: lifecharger.org:443 failed to respond,Thread Group 1-44,text,false,,2085,0,200,200,https://lifecharger.org/archives,0,0,0
+1643185862275,6191,Home page,500,Internal Server Error,Thread Group 1-168,text,false,,895,120,200,200,https://lifecharger.org/,6189,0,2009
+1643185860984,7834,Home page,500,Internal Server Error,Thread Group 1-114,text,false,,895,120,200,200,https://lifecharger.org/,7833,0,3289
+1643185861470,7366,Home page,500,Internal Server Error,Thread Group 1-132,text,false,,895,120,200,200,https://lifecharger.org/,7366,0,2669
+1643185862857,6079,Home page,500,Internal Server Error,Thread Group 1-191,text,false,,895,120,200,200,https://lifecharger.org/,6078,0,1250
+1643185862548,6433,Home page,500,Internal Server Error,Thread Group 1-178,text,false,,895,120,200,200,https://lifecharger.org/,6431,0,1660
+1643185862550,6448,Home page,500,Internal Server Error,Thread Group 1-179,text,false,,895,120,200,200,https://lifecharger.org/,6447,0,1683
+1643185861529,7491,Home page,500,Internal Server Error,Thread Group 1-137,text,false,,895,120,200,200,https://lifecharger.org/,7490,0,2744
+1643185862950,6121,Home page,500,Internal Server Error,Thread Group 1-195,text,false,,895,120,200,200,https://lifecharger.org/,6119,0,1171
+1643185861579,7517,Home page,500,Internal Server Error,Thread Group 1-139,text,false,,895,120,200,200,https://lifecharger.org/,7516,0,2427
+1643185865534,3571,Archives,500,Internal Server Error,Thread Group 1-72,text,false,,895,128,200,200,https://lifecharger.org/archives,3569,0,911
+1643185861337,7826,Home page,500,Internal Server Error,Thread Group 1-127,text,false,,895,120,200,200,https://lifecharger.org/,7823,0,2804
+1643185862053,7110,Home page,500,Internal Server Error,Thread Group 1-159,text,false,,895,120,200,200,https://lifecharger.org/,7108,0,2287
+1643185861775,7404,Home page,500,Internal Server Error,Thread Group 1-147,text,false,,895,120,200,200,https://lifecharger.org/,7402,0,2521
+1643185865329,3883,Archives,500,Internal Server Error,Thread Group 1-46,text,false,,895,128,200,200,https://lifecharger.org/archives,3880,0,1113
+1643185861897,7323,Home page,500,Internal Server Error,Thread Group 1-152,text,false,,895,120,200,200,https://lifecharger.org/,7322,0,2190
+1643185861097,8132,Home page,500,Internal Server Error,Thread Group 1-118,text,false,,895,120,200,200,https://lifecharger.org/,8131,0,2946
+1643185862222,7017,Home page,500,Internal Server Error,Thread Group 1-166,text,false,,895,120,200,200,https://lifecharger.org/,7015,0,2064
+1643185865529,3760,Archives,500,Internal Server Error,Thread Group 1-85,text,false,,895,128,200,200,https://lifecharger.org/archives,3759,0,1067
+1643185865601,3710,Archives,500,Internal Server Error,Thread Group 1-94,text,false,,895,128,200,200,https://lifecharger.org/archives,3708,0,987
+1643185865850,3493,Archives,500,Internal Server Error,Thread Group 1-51,text,false,,895,128,200,200,https://lifecharger.org/archives,3491,0,1398
+1643185861752,7673,Home page,500,Internal Server Error,Thread Group 1-146,text,false,,895,120,200,200,https://lifecharger.org/,7672,0,2524
+1643185860935,8717,Home page,500,Internal Server Error,Thread Group 1-112,text,false,,895,120,200,200,https://lifecharger.org/,8716,0,3153
+1643185865625,4045,Archives,500,Internal Server Error,Thread Group 1-89,text,false,,895,128,200,200,https://lifecharger.org/archives,4043,0,1328
+1643185861706,7964,Home page,500,Internal Server Error,Thread Group 1-144,text,false,,895,120,200,200,https://lifecharger.org/,7963,0,2578
+1643185862376,7448,Home page,500,Internal Server Error,Thread Group 1-172,text,false,,895,120,200,200,https://lifecharger.org/,7447,0,1767
+1643185862351,7474,Home page,500,Internal Server Error,Thread Group 1-171,text,false,,895,120,200,200,https://lifecharger.org/,7473,0,1854
+1643185861861,7969,Home page,500,Internal Server Error,Thread Group 1-150,text,false,,895,120,200,200,https://lifecharger.org/,7968,0,2425
+1643185859717,10119,Home page,200,OK,Thread Group 1-61,text,true,,46041,120,200,200,https://lifecharger.org/,9178,0,1445
+1643185865618,4231,Archives,500,Internal Server Error,Thread Group 1-106,text,false,,895,128,200,200,https://lifecharger.org/archives,4230,0,1185
+1643185865339,4544,Archives,500,Internal Server Error,Thread Group 1-110,text,false,,895,128,200,200,https://lifecharger.org/archives,4543,0,830
+1643185861479,8410,Home page,500,Internal Server Error,Thread Group 1-135,text,false,,895,120,200,200,https://lifecharger.org/,8408,0,2552
+1643185865548,4355,Archives,500,Internal Server Error,Thread Group 1-88,text,false,,895,128,200,200,https://lifecharger.org/archives,4354,0,974
+1643185862176,7795,Home page,500,Internal Server Error,Thread Group 1-164,text,false,,895,120,200,200,https://lifecharger.org/,7794,0,2049
+1643185859667,10383,Home page,200,OK,Thread Group 1-60,text,true,,46041,120,200,200,https://lifecharger.org/,9441,0,1467
+1643185862324,7781,Home page,500,Internal Server Error,Thread Group 1-170,text,false,,895,120,200,200,https://lifecharger.org/,7779,0,1902
+1643185862299,7818,Home page,500,Internal Server Error,Thread Group 1-169,text,false,,895,120,200,200,https://lifecharger.org/,7816,0,1926
+1643185865506,4625,Archives,500,Internal Server Error,Thread Group 1-80,text,false,,895,128,200,200,https://lifecharger.org/archives,4623,0,1048
+1643185862895,7244,Home page,500,Internal Server Error,Thread Group 1-193,text,false,,895,120,200,200,https://lifecharger.org/,7242,0,1244
+1643185862784,7366,Home page,500,Internal Server Error,Thread Group 1-188,text,false,,895,120,200,200,https://lifecharger.org/,7365,0,1393
+1643185862797,7353,Home page,500,Internal Server Error,Thread Group 1-189,text,false,,895,120,200,200,https://lifecharger.org/,7352,0,1379
+1643185862736,7431,Home page,500,Internal Server Error,Thread Group 1-187,text,false,,895,120,200,200,https://lifecharger.org/,7429,0,1360
+1643185863887,6282,Archives,500,Internal Server Error,Thread Group 1-22,text,false,,895,128,200,200,https://lifecharger.org/archives,6281,0,1103
+1643185865560,4637,Archives,500,Internal Server Error,Thread Group 1-101,text,false,,895,128,200,200,https://lifecharger.org/archives,4636,0,1431
+1643185864535,5663,Archives,500,Internal Server Error,Thread Group 1-58,text,false,,895,128,200,200,https://lifecharger.org/archives,5662,0,1338
+1643185866957,3256,Archives,500,Internal Server Error,Thread Group 1-84,text,false,,895,128,200,200,https://lifecharger.org/archives,3255,0,856
+1643185863043,7220,Home page,500,Internal Server Error,Thread Group 1-199,text,false,,895,120,200,200,https://lifecharger.org/,7219,0,1531
+1643185863909,6396,Archives,500,Internal Server Error,Thread Group 1-31,text,false,,895,128,200,200,https://lifecharger.org/archives,6395,0,1601
+1643185864610,5695,Archives,500,Internal Server Error,Thread Group 1-11,text,false,,895,128,200,200,https://lifecharger.org/archives,5694,0,970
+1643185861471,8835,Home page,500,Internal Server Error,Thread Group 1-133,text,false,,895,120,200,200,https://lifecharger.org/,8834,0,2665
+1643185863900,6450,Archives,500,Internal Server Error,Thread Group 1-55,text,false,,895,128,200,200,https://lifecharger.org/archives,6449,0,1663
+1643185863903,6447,Archives,500,Internal Server Error,Thread Group 1-42,text,false,,895,128,200,200,https://lifecharger.org/archives,6446,0,1637
+1643185861231,9209,Home page,500,Internal Server Error,Thread Group 1-124,text,false,,895,120,200,200,https://lifecharger.org/,9209,0,3739
+1643185861107,9334,Home page,500,Internal Server Error,Thread Group 1-119,text,false,,895,120,200,200,https://lifecharger.org/,9334,0,3071
+1643185863895,6548,Archives,500,Internal Server Error,Thread Group 1-14,text,false,,895,128,200,200,https://lifecharger.org/archives,6547,0,1977
+1643185865579,4866,Archives,500,Internal Server Error,Thread Group 1-105,text,false,,895,128,200,200,https://lifecharger.org/archives,4865,0,1011
+1643185861728,8716,Home page,500,Internal Server Error,Thread Group 1-145,text,false,,895,120,200,200,https://lifecharger.org/,8715,0,2553
+1643185865528,4917,Archives,500,Internal Server Error,Thread Group 1-92,text,false,,895,128,200,200,https://lifecharger.org/archives,4916,0,1019
+1643185866090,4357,Archives,500,Internal Server Error,Thread Group 1-100,text,false,,895,128,200,200,https://lifecharger.org/archives,4356,0,1262
+1643185865555,4906,Archives,500,Internal Server Error,Thread Group 1-108,text,false,,895,128,200,200,https://lifecharger.org/archives,4906,0,989
+1643185865841,4624,Archives,500,Internal Server Error,Thread Group 1-70,text,false,,895,128,200,200,https://lifecharger.org/archives,4624,0,1430
+1643185866988,3477,Archives,500,Internal Server Error,Thread Group 1-113,text,false,,895,128,200,200,https://lifecharger.org/archives,3477,0,1295
+1643185865671,4796,Archives,500,Internal Server Error,Thread Group 1-82,text,false,,895,128,200,200,https://lifecharger.org/archives,4795,0,1340
+1643185867099,3375,Archives,500,Internal Server Error,Thread Group 1-163,text,false,,895,128,200,200,https://lifecharger.org/archives,3375,0,974
+1643185866346,4141,Archives,500,Internal Server Error,Thread Group 1-57,text,false,,895,128,200,200,https://lifecharger.org/archives,4141,0,866
+1643185867013,3495,Archives,500,Internal Server Error,Thread Group 1-197,text,false,,895,128,200,200,https://lifecharger.org/archives,3494,0,1269
+1643185864231,6280,Archives,500,Internal Server Error,Thread Group 1-35,text,false,,895,128,200,200,https://lifecharger.org/archives,6280,0,1368
+1643185863961,6550,Archives,500,Internal Server Error,Thread Group 1-18,text,false,,895,128,200,200,https://lifecharger.org/archives,6550,0,1576
+1643185862009,8502,Home page,500,Internal Server Error,Thread Group 1-157,text,false,,895,120,200,200,https://lifecharger.org/,8501,0,2131
+1643185861654,8927,Home page,500,Internal Server Error,Thread Group 1-142,text,false,,895,120,200,200,https://lifecharger.org/,8924,0,2583
+1643185858961,11677,Home page,200,OK,Thread Group 1-36,text,true,,46041,120,200,200,https://lifecharger.org/,10955,0,2182
+1643185866579,4103,Archives,500,Internal Server Error,Thread Group 1-126,text,false,,895,128,200,200,https://lifecharger.org/archives,4101,0,944
+1643185867192,3496,Archives,500,Internal Server Error,Thread Group 1-138,text,false,,895,128,200,200,https://lifecharger.org/archives,3494,0,865
+1643185861831,8857,Home page,500,Internal Server Error,Thread Group 1-149,text,false,,895,120,200,200,https://lifecharger.org/,8855,0,2192
+1643185864213,6488,Archives,500,Internal Server Error,Thread Group 1-75,text,false,,895,128,200,200,https://lifecharger.org/archives,6486,0,1781
+1643185862614,8093,Home page,500,Internal Server Error,Thread Group 1-182,text,false,,895,120,200,200,https://lifecharger.org/,8091,0,1673
+1643185866774,3960,Archives,500,Internal Server Error,Thread Group 1-125,text,false,,895,128,200,200,https://lifecharger.org/archives,3959,0,1251
+1643185861629,9110,Home page,500,Internal Server Error,Thread Group 1-141,text,false,,895,120,200,200,https://lifecharger.org/,9109,0,2645
+1643185862127,8670,Home page,500,Internal Server Error,Thread Group 1-162,text,false,,895,120,200,200,https://lifecharger.org/,8670,0,2223
+1643185866651,4149,Archives,500,Internal Server Error,Thread Group 1-130,text,false,,895,128,200,200,https://lifecharger.org/archives,4148,0,1644
+1643185861473,9334,Home page,500,Internal Server Error,Thread Group 1-134,text,false,,895,120,200,200,https://lifecharger.org/,9333,0,2801
+1643185858325,12482,Home page,200,OK,Thread Group 1-8,text,true,,46041,120,200,200,https://lifecharger.org/,11894,0,2814
+1643185864436,6373,Archives,500,Internal Server Error,Thread Group 1-9,text,false,,895,128,200,200,https://lifecharger.org/archives,6372,0,1141
+1643185865702,5110,Archives,500,Internal Server Error,Thread Group 1-86,text,false,,895,128,200,200,https://lifecharger.org/archives,5109,0,1241
+1643185865590,5223,Archives,500,Internal Server Error,Thread Group 1-91,text,false,,895,128,200,200,https://lifecharger.org/archives,5221,0,1215
+1643185864160,6690,Archives,500,Internal Server Error,Thread Group 1-52,text,false,,895,128,200,200,https://lifecharger.org/archives,6688,0,1343
+1643185864009,6841,Archives,500,Internal Server Error,Thread Group 1-12,text,false,,895,128,200,200,https://lifecharger.org/archives,6840,0,1533
+1643185864364,6515,Archives,500,Internal Server Error,Thread Group 1-4,text,false,,895,128,200,200,https://lifecharger.org/archives,6514,0,1620
+1643185867909,2999,Archives,500,Internal Server Error,Thread Group 1-128,text,false,,895,128,200,200,https://lifecharger.org/archives,2997,0,1706
+1643185867676,3241,Archives,500,Internal Server Error,Thread Group 1-165,text,false,,895,128,200,200,https://lifecharger.org/archives,3241,0,1065
+1643185867717,3267,Archives,500,Internal Server Error,Thread Group 1-186,text,false,,895,128,200,200,https://lifecharger.org/archives,3266,0,1286
+1643185864181,6814,Archives,500,Internal Server Error,Thread Group 1-63,text,false,,895,128,200,200,https://lifecharger.org/archives,6814,0,1758
+1643185862528,8493,Home page,500,Internal Server Error,Thread Group 1-175,text,false,,895,120,200,200,https://lifecharger.org/,8493,0,1700
+1643185861505,9528,Home page,500,Internal Server Error,Thread Group 1-136,text,false,,895,120,200,200,https://lifecharger.org/,9527,0,2501
+1643185865739,5305,Archives,500,Internal Server Error,Thread Group 1-77,text,false,,895,128,200,200,https://lifecharger.org/archives,5305,0,1247
+1643185865538,5533,Archives,500,Internal Server Error,Thread Group 1-98,text,false,,895,128,200,200,https://lifecharger.org/archives,5533,0,1006
+1643185861468,9604,Home page,500,Internal Server Error,Thread Group 1-131,text,false,,895,120,200,200,https://lifecharger.org/,9604,0,2830
+1643185868088,2988,About,500,Internal Server Error,Thread Group 1-78,text,false,,895,125,200,200,https://lifecharger.org/about,2987,0,1596
+1643185866286,4798,Archives,500,Internal Server Error,Thread Group 1-37,text,false,,895,128,199,199,https://lifecharger.org/archives,4798,0,1916
+1643185864550,6542,Archives,500,Internal Server Error,Thread Group 1-68,text,false,,895,128,199,199,https://lifecharger.org/archives,6541,0,1028
+1643185866037,5079,Archives,500,Internal Server Error,Thread Group 1-73,text,false,,895,128,199,199,https://lifecharger.org/archives,5078,0,1316
+1643185863065,8065,Home page,500,Internal Server Error,Thread Group 1-200,text,false,,895,120,199,199,https://lifecharger.org/,8065,0,1452
+1643185864643,6513,Archives,500,Internal Server Error,Thread Group 1-49,text,false,,895,128,199,199,https://lifecharger.org/archives,6513,0,964
+1643185862105,9077,Home page,500,Internal Server Error,Thread Group 1-161,text,false,,895,120,199,199,https://lifecharger.org/,9077,0,2120
+1643185858913,12278,Home page,200,OK,Thread Group 1-34,text,true,,46041,120,199,199,https://lifecharger.org/,11722,0,2226
+1643185870051,1148,Archives,500,Internal Server Error,Thread Group 1-60,text,false,,895,128,199,199,https://lifecharger.org/archives,1148,0,0
+1643185865848,5365,Archives,500,Internal Server Error,Thread Group 1-39,text,false,,895,128,199,199,https://lifecharger.org/archives,5365,0,2087
+1643185864436,6849,Archives,500,Internal Server Error,Thread Group 1-71,text,false,,895,128,199,199,https://lifecharger.org/archives,6848,0,1148
+1643185868271,3023,Archives,500,Internal Server Error,Thread Group 1-167,text,false,,895,128,199,199,https://lifecharger.org/archives,3023,0,1509
+1643185869021,2366,Archives,500,Internal Server Error,Thread Group 1-137,text,false,,895,128,199,199,https://lifecharger.org/archives,2365,0,1421
+1643185869164,2223,Archives,500,Internal Server Error,Thread Group 1-127,text,false,,895,128,199,199,https://lifecharger.org/archives,2222,0,1298
+1643185868084,3324,Archives,500,Internal Server Error,Thread Group 1-183,text,false,,895,128,199,199,https://lifecharger.org/archives,3324,0,1743
+1643185868383,3024,About,500,Internal Server Error,Thread Group 1-20,text,false,,895,125,199,199,https://lifecharger.org/about,3024,0,923
+1643185866046,5408,Archives,500,Internal Server Error,Thread Group 1-48,text,false,,895,128,198,198,https://lifecharger.org/archives,5408,0,1445
+1643185863964,7490,Archives,500,Internal Server Error,Thread Group 1-27,text,false,,895,128,198,198,https://lifecharger.org/archives,7490,0,1542
+1643185868015,3445,Archives,500,Internal Server Error,Thread Group 1-158,text,false,,895,128,198,198,https://lifecharger.org/archives,3445,0,1783
+1643185858794,12686,Home page,200,OK,Thread Group 1-29,text,true,,46041,120,198,198,https://lifecharger.org/,12150,0,2405
+1643185868820,2679,Archives,500,Internal Server Error,Thread Group 1-114,text,false,,895,128,198,198,https://lifecharger.org/archives,2679,0,1483
+1643185868172,3363,Archives,500,Internal Server Error,Thread Group 1-155,text,false,,895,128,198,198,https://lifecharger.org/archives,3362,0,1292
+1643185863934,7652,Archives,500,Internal Server Error,Thread Group 1-59,text,false,,895,128,198,198,https://lifecharger.org/archives,7651,0,1609
+1643185869344,2307,About,500,Internal Server Error,Thread Group 1-51,text,false,,895,125,198,198,https://lifecharger.org/about,2307,0,1291
+1643185868986,2677,Archives,500,Internal Server Error,Thread Group 1-178,text,false,,895,128,197,197,https://lifecharger.org/archives,2677,0,1426
+1643185869671,2162,Archives,500,Internal Server Error,Thread Group 1-144,text,false,,895,128,197,197,https://lifecharger.org/archives,2162,0,1138
+1643185858320,13590,Home page,200,OK,Thread Group 1-3,text,true,,46041,120,197,197,https://lifecharger.org/,13063,0,2888
+1643185868938,2973,Archives,500,Internal Server Error,Thread Group 1-191,text,false,,895,128,197,197,https://lifecharger.org/archives,2973,0,1447
+1643185867793,4156,Archives,500,Internal Server Error,Thread Group 1-173,text,false,,895,128,197,197,https://lifecharger.org/archives,4156,0,2012
+1643185869826,2165,Archives,500,Internal Server Error,Thread Group 1-171,text,false,,895,128,197,197,https://lifecharger.org/archives,2165,0,1359
+1643185869837,2249,Archives,500,Internal Server Error,Thread Group 1-61,text,false,,895,128,197,197,https://lifecharger.org/archives,2248,0,0
+1643185861678,10439,Home page,500,Internal Server Error,Thread Group 1-143,text,false,,895,120,197,197,https://lifecharger.org/,10439,0,2366
+1643185870264,1883,Archives,500,Internal Server Error,Thread Group 1-199,text,false,,895,128,197,197,https://lifecharger.org/archives,1882,0,993
+1643185871191,999,Archives,500,Internal Server Error,Thread Group 1-34,text,false,,895,128,197,197,https://lifecharger.org/archives,999,0,0
+1643185858864,13361,Home page,200,OK,Thread Group 1-32,text,true,,46041,120,197,197,https://lifecharger.org/,12815,0,2270
+1643185865270,6998,Archives,500,Internal Server Error,Thread Group 1-26,text,false,,895,128,197,197,https://lifecharger.org/archives,6998,0,2476
+1643185865699,6606,Archives,500,Internal Server Error,Thread Group 1-81,text,false,,895,128,197,197,https://lifecharger.org/archives,6605,0,3791
+1643185870305,2000,About,500,Internal Server Error,Thread Group 1-31,text,false,,895,125,197,197,https://lifecharger.org/about,1999,0,893
+1643185858453,13922,Home page,200,OK,Thread Group 1-15,text,true,,46046,120,196,196,https://lifecharger.org/,13371,0,2744
+1643185870511,1881,About,500,Internal Server Error,Thread Group 1-18,text,false,,895,125,196,196,https://lifecharger.org/about,1880,0,872
+1643185870350,2075,About,500,Internal Server Error,Thread Group 1-42,text,false,,895,125,195,195,https://lifecharger.org/about,2074,0,837
+1643185858674,13753,Home page,200,OK,Thread Group 1-24,text,true,,46041,120,194,194,https://lifecharger.org/,13214,0,2461
+1643185868999,3447,Archives,500,Internal Server Error,Thread Group 1-179,text,false,,895,128,194,194,https://lifecharger.org/archives,3446,0,1451
+1643185870511,1951,About,500,Internal Server Error,Thread Group 1-35,text,false,,895,125,194,194,https://lifecharger.org/about,1913,0,870
+1643185870640,1826,Archives,500,Internal Server Error,Thread Group 1-36,text,false,,895,128,193,193,https://lifecharger.org/archives,1825,0,0
+1643185870156,2347,Archives,500,Internal Server Error,Thread Group 1-188,text,false,,895,128,193,193,https://lifecharger.org/archives,2345,0,987
+1643185868319,4188,Archives,500,Internal Server Error,Thread Group 1-123,text,false,,895,128,193,193,https://lifecharger.org/archives,4187,0,1764
+1643185870808,1745,Archives,500,Internal Server Error,Thread Group 1-8,text,false,,895,128,193,193,https://lifecharger.org/archives,1744,0,0
+1643185865776,6788,Archives,500,Internal Server Error,Thread Group 1-66,text,false,,895,128,193,193,https://lifecharger.org/archives,6787,0,1805
+1643185867546,5038,Archives,500,Internal Server Error,Thread Group 1-156,text,false,,895,128,193,193,https://lifecharger.org/archives,5037,0,2991
+1643185865798,6810,Archives,500,Internal Server Error,Thread Group 1-50,text,false,,895,128,193,193,https://lifecharger.org/archives,6809,0,1949
+1643185869288,3385,About,500,Internal Server Error,Thread Group 1-85,text,false,,895,125,193,193,https://lifecharger.org/about,3384,0,1278
+1643185869164,3517,Archives,500,Internal Server Error,Thread Group 1-159,text,false,,895,128,192,192,https://lifecharger.org/archives,3516,0,1528
+1643185870444,2237,Archives,500,Internal Server Error,Thread Group 1-145,text,false,,895,128,192,192,https://lifecharger.org/archives,2236,0,854
+1643185869890,2839,Archives,500,Internal Server Error,Thread Group 1-135,text,false,,895,128,192,192,https://lifecharger.org/archives,2838,0,1104
+1643185869671,3069,About,500,Internal Server Error,Thread Group 1-89,text,false,,895,125,192,192,https://lifecharger.org/about,3068,0,1227
+1643185868426,4324,About,500,Internal Server Error,Thread Group 1-44,text,false,,895,125,191,191,https://lifecharger.org/about,4323,0,2111
+1643185858501,14254,Home page,200,OK,Thread Group 1-17,text,true,,46041,120,190,190,https://lifecharger.org/,11949,0,2679
+1643185867190,5567,Archives,500,Internal Server Error,Thread Group 1-151,text,false,,895,128,190,190,https://lifecharger.org/archives,5566,0,3261
+1643185870446,2327,About,500,Internal Server Error,Thread Group 1-100,text,false,,895,125,190,190,https://lifecharger.org/about,2326,0,1141
+1643185858324,14808,Home page,200,OK,Thread Group 1-2,text,true,,46041,120,189,189,https://lifecharger.org/,13759,0,2877
+1643185858769,14363,Home page,200,OK,Thread Group 1-28,text,true,,46046,120,189,189,https://lifecharger.org/,13369,0,2424
+1643185870461,2742,About,500,Internal Server Error,Thread Group 1-108,text,false,,895,125,189,189,https://lifecharger.org/about,2741,0,923
+1643185859156,14104,Home page,200,OK,Thread Group 1-43,text,true,,46041,120,188,188,https://lifecharger.org/,13550,0,2044
+1643185859428,13896,Home page,200,OK,Thread Group 1-53,text,true,,46041,120,188,188,https://lifecharger.org/,13355,0,1790
+1643185872225,1146,Archives,500,Internal Server Error,Thread Group 1-32,text,false,,895,128,188,188,https://lifecharger.org/archives,1145,0,0
+1643185870440,3005,Archives,500,Internal Server Error,Thread Group 1-124,text,false,,895,128,188,188,https://lifecharger.org/archives,3004,0,937
+1643185870708,2747,Archives,500,Internal Server Error,Thread Group 1-182,text,false,,895,128,188,188,https://lifecharger.org/archives,2746,0,1135
+1643185870464,2996,About,500,Internal Server Error,Thread Group 1-113,text,false,,895,125,188,188,https://lifecharger.org/about,2995,0,945
+1643185871387,2116,About,500,Internal Server Error,Thread Group 1-137,text,false,,895,125,187,187,https://lifecharger.org/about,2114,0,812
+1643185858322,15225,Home page,200,OK,Thread Group 1-6,text,true,,46041,120,186,186,https://lifecharger.org/,14660,0,2891
+1643185858887,14681,Home page,200,OK,Thread Group 1-33,text,true,,46041,120,186,186,https://lifecharger.org/,14128,0,2363
+1643185858598,15047,Home page,200,OK,Thread Group 1-21,text,true,,46041,120,186,186,https://lifecharger.org/,14501,0,2616
+1643185859258,14410,Home page,200,OK,Thread Group 1-47,text,true,,46041,120,186,186,https://lifecharger.org/,13858,0,1929
+1643185859010,14669,Home page,200,OK,Thread Group 1-38,text,true,,46041,120,186,186,https://lifecharger.org/,14125,0,2208
+1643185870812,2932,About,500,Internal Server Error,Thread Group 1-91,text,false,,895,125,186,186,https://lifecharger.org/about,2931,0,858
+1643185858341,15423,Home page,200,OK,Thread Group 1-10,text,true,,46041,120,185,185,https://lifecharger.org/,14875,0,2870
+1643185858405,15360,Home page,200,OK,Thread Group 1-13,text,true,,46041,120,185,185,https://lifecharger.org/,14811,0,2762
+1643185870908,2899,About,500,Internal Server Error,Thread Group 1-128,text,false,,895,125,185,185,https://lifecharger.org/about,2898,0,916
+1643185871834,2033,About,500,Internal Server Error,Thread Group 1-144,text,false,,895,125,184,184,https://lifecharger.org/about,2032,0,810
+1643185872376,1593,Archives,500,Internal Server Error,Thread Group 1-15,text,false,,895,128,183,183,https://lifecharger.org/archives,1593,0,0
+1643185871199,2878,About,500,Internal Server Error,Thread Group 1-60,text,false,,895,125,183,183,https://lifecharger.org/about,2877,0,1215
+1643185872429,1837,Archives,500,Internal Server Error,Thread Group 1-24,text,false,,895,128,182,182,https://lifecharger.org/archives,1836,0,0
+1643185872191,2195,About,500,Internal Server Error,Thread Group 1-34,text,false,,895,125,182,182,https://lifecharger.org/about,2195,0,985
+1643185873548,872,Archives,500,Internal Server Error,Thread Group 1-6,text,false,,895,128,181,181,https://lifecharger.org/archives,871,0,0
+1643185870798,3631,Archives,500,Internal Server Error,Thread Group 1-162,text,false,,895,128,181,181,https://lifecharger.org/archives,3630,0,865
+1643185870799,3641,About,500,Internal Server Error,Thread Group 1-130,text,false,,895,125,181,181,https://lifecharger.org/about,3641,0,865
+1643185873133,1317,Archives,500,Internal Server Error,Thread Group 1-2,text,false,,895,128,180,180,https://lifecharger.org/archives,1316,0,0
+1643185872117,2388,Archives,500,Internal Server Error,Thread Group 1-143,text,false,,895,128,180,180,https://lifecharger.org/archives,2387,0,860
+1643185871911,2642,About,500,Internal Server Error,Thread Group 1-191,text,false,,895,125,180,180,https://lifecharger.org/about,2641,0,961
+1643185859501,15118,Home page,200,OK,Thread Group 1-56,text,true,,46041,120,179,179,https://lifecharger.org/,14575,0,1669
+1643185873765,856,Archives,500,Internal Server Error,Thread Group 1-10,text,false,,895,128,179,179,https://lifecharger.org/archives,854,0,0
+1643185873133,1499,Archives,500,Internal Server Error,Thread Group 1-28,text,false,,895,128,179,179,https://lifecharger.org/archives,1497,0,0
+1643185872086,2575,About,500,Internal Server Error,Thread Group 1-61,text,false,,895,125,179,179,https://lifecharger.org/about,2574,0,950
+1643185872304,2370,About,500,Internal Server Error,Thread Group 1-81,text,false,,895,125,178,178,https://lifecharger.org/about,2369,0,947
+1643185871460,3234,About,500,Internal Server Error,Thread Group 1-158,text,false,,895,125,177,177,https://lifecharger.org/about,3233,0,964
+1643185872268,2449,About,500,Internal Server Error,Thread Group 1-26,text,false,,895,125,176,176,https://lifecharger.org/about,2448,0,908
+1643185872756,2012,Archives,500,Internal Server Error,Thread Group 1-17,text,false,,895,128,175,175,https://lifecharger.org/archives,2011,0,0
+1643185872682,2213,About,500,Internal Server Error,Thread Group 1-159,text,false,,895,125,175,175,https://lifecharger.org/about,2211,0,864
+1643185872447,2466,About,500,Internal Server Error,Thread Group 1-179,text,false,,895,125,174,174,https://lifecharger.org/about,2465,0,976
+1643185871213,3816,About,500,Internal Server Error,Thread Group 1-39,text,false,,895,125,173,173,https://lifecharger.org/about,3815,0,1348
+1643185873765,1337,Archives,500,Internal Server Error,Thread Group 1-13,text,false,,895,128,172,172,https://lifecharger.org/archives,1336,0,0
+1643185873645,1476,Archives,500,Internal Server Error,Thread Group 1-21,text,false,,895,128,172,172,https://lifecharger.org/archives,1475,0,0
+1643185872467,2660,About,500,Internal Server Error,Thread Group 1-36,text,false,,895,125,172,172,https://lifecharger.org/about,2659,0,940
+1643185873261,2105,Archives,500,Internal Server Error,Thread Group 1-43,text,false,,895,128,171,171,https://lifecharger.org/archives,2104,0,0
+1643185871481,3925,Archives,500,Internal Server Error,Thread Group 1-29,text,false,,895,128,171,171,https://lifecharger.org/archives,3924,0,0
+1643185870443,4983,About,500,Internal Server Error,Thread Group 1-14,text,false,,895,125,171,171,https://lifecharger.org/about,4982,0,934
+1643185873680,1787,Archives,500,Internal Server Error,Thread Group 1-38,text,false,,895,128,170,170,https://lifecharger.org/archives,1786,0,0
+1643185873669,1803,Archives,500,Internal Server Error,Thread Group 1-47,text,false,,895,128,170,170,https://lifecharger.org/archives,1802,0,0
+1643185873325,2252,Archives,500,Internal Server Error,Thread Group 1-53,text,false,,895,128,170,170,https://lifecharger.org/archives,2251,0,0
+1643185873569,2020,Archives,500,Internal Server Error,Thread Group 1-33,text,false,,895,128,170,170,https://lifecharger.org/archives,2019,0,0
+1643185872564,3197,About,500,Internal Server Error,Thread Group 1-66,text,false,,895,125,170,170,https://lifecharger.org/about,3196,0,1081
+1643185872729,3037,About,500,Internal Server Error,Thread Group 1-135,text,false,,895,125,169,169,https://lifecharger.org/about,3035,0,861
+1643185874620,1360,Archives,500,Internal Server Error,Thread Group 1-56,text,false,,895,128,168,168,https://lifecharger.org/archives,1358,0,0
+1643185874266,2112,About,500,Internal Server Error,Thread Group 1-24,text,false,,895,125,168,168,https://lifecharger.org/about,2112,0,1224
+1643185874450,1936,About,500,Internal Server Error,Thread Group 1-2,text,false,,895,125,167,167,https://lifecharger.org/about,1936,0,1161
+1643185874421,1966,About,500,Internal Server Error,Thread Group 1-6,text,false,,895,125,166,166,https://lifecharger.org/about,1966,0,1179
+1643185874429,2087,About,500,Internal Server Error,Thread Group 1-162,text,false,,895,125,165,165,https://lifecharger.org/about,2086,0,1348
+1643185874506,2040,About,500,Internal Server Error,Thread Group 1-143,text,false,,895,125,164,164,https://lifecharger.org/about,2038,0,1252
+1643185875106,2621,About,500,Internal Server Error,Thread Group 1-13,text,false,,895,125,163,163,https://lifecharger.org/about,2620,0,1853
+1643185870683,7050,About,500,Internal Server Error,Thread Group 1-126,text,false,,1467,251,162,162,https://lifecharger.org/about/,6276,0,1491
+1643185870683,6276,About-0,301,Moved Permanently,Thread Group 1-126,text,true,,572,125,162,162,https://lifecharger.org/about,6276,0,1491
+1643185876965,768,About-1,500,Internal Server Error,Thread Group 1-126,text,false,,895,126,162,162,https://lifecharger.org/about/,766,0,0
+1643185875980,1985,About,500,Internal Server Error,Thread Group 1-56,text,false,,895,125,161,161,https://lifecharger.org/about,1984,0,1276
+1643185870917,7226,About,500,Internal Server Error,Thread Group 1-165,text,false,,1467,251,160,160,https://lifecharger.org/about/,6623,0,845
+1643185870917,6623,About-0,301,Moved Permanently,Thread Group 1-165,text,true,,572,125,160,160,https://lifecharger.org/about,6623,0,845
+1643185877540,603,About-1,500,Internal Server Error,Thread Group 1-165,text,false,,895,126,160,160,https://lifecharger.org/about/,602,0,0
+1643185870464,7866,About,500,Internal Server Error,Thread Group 1-70,text,false,,1467,251,159,159,https://lifecharger.org/about/,6968,0,1108
+1643185870464,6968,About-0,301,Moved Permanently,Thread Group 1-70,text,true,,572,125,159,159,https://lifecharger.org/about,6968,0,1108
+1643185877433,897,About-1,500,Internal Server Error,Thread Group 1-70,text,false,,895,126,159,159,https://lifecharger.org/about/,895,0,0
+1643185871021,7718,Archives,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: lifecharger.org:443 failed to respond,Thread Group 1-175,text,false,,3108,128,158,158,https://lifecharger.org/archives/,7641,0,844
+1643185871021,7641,Archives-0,301,Moved Permanently,Thread Group 1-175,text,true,,527,128,158,158,https://lifecharger.org/archives,7641,0,844
+1643185878665,74,Archives-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: lifecharger.org:443 failed to respond,Thread Group 1-175,text,false,,2581,0,158,158,https://lifecharger.org/archives/,0,0,0
+1643185872503,7668,About,500,Internal Server Error,Thread Group 1-188,text,false,,1467,251,158,158,https://lifecharger.org/about/,7063,0,956
+1643185872503,7063,About-0,301,Moved Permanently,Thread Group 1-188,text,true,,572,125,158,158,https://lifecharger.org/about,7063,0,956
+1643185879571,600,About-1,500,Internal Server Error,Thread Group 1-188,text,false,,895,126,158,158,https://lifecharger.org/about/,598,0,0
+1643185871182,9214,Archives,500,Internal Server Error,Thread Group 1-161,text,false,,1422,257,157,157,https://lifecharger.org/archives/,8604,0,855
+1643185871182,8604,Archives-0,301,Moved Permanently,Thread Group 1-161,text,true,,527,128,157,157,https://lifecharger.org/archives,8604,0,855
+1643185879787,609,Archives-1,500,Internal Server Error,Thread Group 1-161,text,false,,895,129,157,157,https://lifecharger.org/archives/,607,0,0
+1643185870586,11755,Archives,500,Internal Server Error,Thread Group 1-142,text,false,,1422,257,157,157,https://lifecharger.org/archives/,10819,0,988
+1643185870586,10819,Archives-0,301,Moved Permanently,Thread Group 1-142,text,true,,527,128,157,157,https://lifecharger.org/archives,10819,0,988
+1643185881405,936,Archives-1,500,Internal Server Error,Thread Group 1-142,text,false,,895,129,157,157,https://lifecharger.org/archives/,934,0,0
+1643185862571,20111,Home page,500,Internal Server Error,Thread Group 1-180,text,false,,895,120,157,157,https://lifecharger.org/,20111,0,2400
+1643185861360,21323,Home page,500,Internal Server Error,Thread Group 1-129,text,false,,895,120,157,157,https://lifecharger.org/,21323,0,2663
+1643185862837,20006,Home page,500,Internal Server Error,Thread Group 1-190,text,false,,895,120,157,157,https://lifecharger.org/,20005,0,1394
+1643185862687,20211,Home page,500,Internal Server Error,Thread Group 1-185,text,false,,895,120,157,157,https://lifecharger.org/,20210,0,1344
+1643185862865,20105,Home page,500,Internal Server Error,Thread Group 1-192,text,false,,895,120,157,157,https://lifecharger.org/,20103,0,1272
+1643185862917,20116,Home page,500,Internal Server Error,Thread Group 1-194,text,false,,895,120,157,157,https://lifecharger.org/,20115,0,1205
+1643185861037,22854,Home page,500,Internal Server Error,Thread Group 1-116,text,false,,895,120,157,157,https://lifecharger.org/,22854,0,3052
+1643185864698,19275,Archives,500,Internal Server Error,Thread Group 1-25,text,false,,895,128,157,157,https://lifecharger.org/archives,19273,0,931
+1643185869849,14274,About,200,OK,Thread Group 1-106,text,true,,33248,251,157,157,https://lifecharger.org/about/,7976,0,1333
+1643185869849,7976,About-0,301,Moved Permanently,Thread Group 1-106,text,true,,572,125,157,157,https://lifecharger.org/about,7976,0,1333
+1643185877826,6297,About-1,200,OK,Thread Group 1-106,text,true,,32676,126,157,157,https://lifecharger.org/about/,6040,0,0
+1643185862964,21936,Home page,500,Internal Server Error,Thread Group 1-196,text,false,,895,120,156,156,https://lifecharger.org/,21935,0,1259
+1643185871156,14570,About,200,OK,Thread Group 1-49,text,true,,33248,251,156,156,https://lifecharger.org/about/,8237,0,920
+1643185871156,8237,About-0,301,Moved Permanently,Thread Group 1-49,text,true,,572,125,156,156,https://lifecharger.org/about,8237,0,920
+1643185879395,6331,About-1,200,OK,Thread Group 1-49,text,true,,32676,126,156,156,https://lifecharger.org/about/,6051,0,0
+1643185871408,14945,About,200,OK,Thread Group 1-183,text,true,,33248,251,155,155,https://lifecharger.org/about/,7031,0,858
+1643185871408,7031,About-0,301,Moved Permanently,Thread Group 1-183,text,true,,572,125,155,155,https://lifecharger.org/about,7031,0,858
+1643185878440,7913,About-1,200,OK,Thread Group 1-183,text,true,,32676,126,155,155,https://lifecharger.org/about/,7044,0,0
+1643185865547,21037,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-45,text,false,,2870,0,154,154,https://lifecharger.org/archives,0,0,21037
+1643185865539,21060,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-23,text,false,,2870,0,154,154,https://lifecharger.org/archives,0,0,21060
+1643185865533,21066,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-69,text,false,,2870,0,154,154,https://lifecharger.org/archives,0,0,21066
+1643185865564,21035,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-104,text,false,,2870,0,154,154,https://lifecharger.org/archives,0,0,21035
+1643185870445,16167,About,200,OK,Thread Group 1-92,text,true,,33253,251,154,154,https://lifecharger.org/about/,8518,0,887
+1643185870445,8518,About-0,301,Moved Permanently,Thread Group 1-92,text,true,,572,125,154,154,https://lifecharger.org/about,8518,0,887
+1643185878966,7646,About-1,200,OK,Thread Group 1-92,text,true,,32681,126,154,154,https://lifecharger.org/about/,7387,0,0
+1643185865564,21050,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-107,text,false,,2870,0,153,153,https://lifecharger.org/archives,0,0,21050
+1643185865568,21047,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-102,text,false,,2870,0,153,153,https://lifecharger.org/archives,0,0,21047
+1643185865579,21037,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-99,text,false,,2870,0,153,153,https://lifecharger.org/archives,0,0,21037
+1643185865571,21045,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-96,text,false,,2870,0,153,153,https://lifecharger.org/archives,0,0,21045
+1643185865558,21056,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-103,text,false,,2870,0,153,153,https://lifecharger.org/archives,0,0,21056
+1643185865573,21042,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-90,text,false,,2870,0,153,153,https://lifecharger.org/archives,0,0,21042
+1643185870474,16154,About,200,OK,Thread Group 1-163,text,true,,33248,251,153,153,https://lifecharger.org/about/,8188,0,1098
+1643185870474,8188,About-0,301,Moved Permanently,Thread Group 1-163,text,true,,572,125,153,153,https://lifecharger.org/about,8188,0,1098
+1643185878663,7965,About-1,200,OK,Thread Group 1-163,text,true,,32676,126,153,153,https://lifecharger.org/about/,7703,0,0
+1643185865645,21046,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-109,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21046
+1643185865651,21040,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-83,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21040
+1643185865658,21048,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-95,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21048
+1643185865702,21052,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-87,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21052
+1643185865721,21048,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-93,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21048
+1643185865813,21065,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-76,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21065
+1643185865830,21050,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-64,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21050
+1643185865848,21047,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-41,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21046
+1643185865851,21046,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-79,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21044
+1643185865928,21049,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-67,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21049
+1643185865884,21054,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-7,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21054
+1643185865875,21063,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-54,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21063
+1643185865896,21042,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-30,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21042
+1643185865962,21037,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-16,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21036
+1643185865974,21056,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-1,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21056
+1643185866033,21059,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-62,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21059
+1643185866053,21039,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-19,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21039
+1643185866078,21045,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-5,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21044
+1643185866110,21043,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-198,text,false,,2870,0,152,152,https://lifecharger.org/archives,0,0,21043
+1643185866423,21041,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-40,text,false,,2870,0,152,152,https://lifecharger.org/about,0,0,21041
+1643185866411,21070,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-181,text,false,,2870,0,151,151,https://lifecharger.org/archives,0,0,21070
+1643185866549,21053,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-148,text,false,,2870,0,151,151,https://lifecharger.org/archives,0,0,21053
+1643185866686,21055,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-184,text,false,,2870,0,151,151,https://lifecharger.org/archives,0,0,21055
+1643185867113,21031,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-160,text,false,,2870,0,151,151,https://lifecharger.org/archives,0,0,21031
+1643185867128,21031,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-120,text,false,,2870,0,151,151,https://lifecharger.org/archives,0,0,21031
+1643185867121,21054,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-154,text,false,,2870,0,151,151,https://lifecharger.org/archives,0,0,21054
+1643185867134,21041,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-140,text,false,,2870,0,151,151,https://lifecharger.org/archives,0,0,21041
+1643185871500,16882,About,200,OK,Thread Group 1-114,text,true,,33267,251,151,151,https://lifecharger.org/about/,9037,0,929
+1643185871500,9037,About-0,301,Moved Permanently,Thread Group 1-114,text,true,,591,125,151,151,https://lifecharger.org/about,9037,0,929
+1643185880538,7844,About-1,200,OK,Thread Group 1-114,text,true,,32676,126,151,151,https://lifecharger.org/about/,7040,0,787
+1643185886898,1529,About,500,Internal Server Error,Thread Group 1-79,text,false,,895,125,150,150,https://lifecharger.org/about,1528,0,847
+1643185867399,21040,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-74,text,false,,2870,0,149,149,https://lifecharger.org/about,0,0,21040
+1643185887000,1448,About,500,Internal Server Error,Thread Group 1-16,text,false,,895,125,148,148,https://lifecharger.org/about,1447,0,862
+1643185867422,21049,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-65,text,false,,2870,0,147,147,https://lifecharger.org/archives,0,0,21048
+1643185867416,21055,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-177,text,false,,2870,0,147,147,https://lifecharger.org/archives,0,0,21054
+1643185887094,1417,About,500,Internal Server Error,Thread Group 1-62,text,false,,895,125,147,147,https://lifecharger.org/about,1416,0,799
+1643185867481,21050,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-97,text,false,,2870,0,146,146,https://lifecharger.org/archives,0,0,21050
+1643185867493,21039,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-117,text,false,,2870,0,146,146,https://lifecharger.org/archives,0,0,21039
+1643185867631,21026,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-115,text,false,,2870,0,146,146,https://lifecharger.org/archives,0,0,21026
+1643185870307,18357,About,200,OK,Thread Group 1-11,text,true,,33253,251,146,146,https://lifecharger.org/about/,10088,0,1266
+1643185870307,10088,About-0,301,Moved Permanently,Thread Group 1-11,text,true,,572,125,146,146,https://lifecharger.org/about,10088,0,1266
+1643185880396,8268,About-1,200,OK,Thread Group 1-11,text,true,,32681,126,146,146,https://lifecharger.org/about/,7989,0,0
+1643185867679,21025,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-153,text,false,,2870,0,145,145,https://lifecharger.org/archives,0,0,21025
+1643185867748,21033,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-111,text,false,,2870,0,145,145,https://lifecharger.org/archives,0,0,21033
+1643185867870,21037,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-122,text,false,,2870,0,145,145,https://lifecharger.org/archives,0,0,21037
+1643185887603,1327,About,500,Internal Server Error,Thread Group 1-148,text,false,,895,125,145,145,https://lifecharger.org/about,1326,0,822
+1643185868172,21029,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-174,text,false,,2870,0,144,144,https://lifecharger.org/archives,0,0,21029
+1643185868164,21052,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-121,text,false,,2870,0,144,144,https://lifecharger.org/archives,0,0,21052
+1643185868317,21056,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-176,text,false,,2870,0,144,144,https://lifecharger.org/archives,0,0,21056
+1643185868468,21064,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-168,text,false,,2870,0,144,144,https://lifecharger.org/archives,0,0,21063
+1643185868836,21067,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-132,text,false,,2870,0,144,144,https://lifecharger.org/archives,0,0,21067
+1643185869072,21063,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-195,text,false,,2870,0,144,144,https://lifecharger.org/archives,0,0,21062
+1643185869097,21054,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-139,text,false,,2870,0,144,144,https://lifecharger.org/archives,0,0,21053
+1643185869105,21061,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-72,text,false,,2870,0,144,144,https://lifecharger.org/about,0,0,21061
+1643185869180,21066,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-147,text,false,,2870,0,143,143,https://lifecharger.org/archives,0,0,21066
+1643185869212,21063,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-46,text,false,,2870,0,143,143,https://lifecharger.org/about,0,0,21063
+1643185869223,21066,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-152,text,false,,2870,0,142,142,https://lifecharger.org/archives,0,0,21066
+1643185869231,21059,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-118,text,false,,2870,0,142,142,https://lifecharger.org/archives,0,0,21058
+1643185869240,21066,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-166,text,false,,2870,0,142,142,https://lifecharger.org/archives,0,0,21066
+1643185869311,21055,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-94,text,false,,2870,0,142,142,https://lifecharger.org/about,0,0,21055
+1643185869426,21067,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-146,text,false,,2870,0,141,141,https://lifecharger.org/archives,0,0,21067
+1643185888481,2162,About,500,Internal Server Error,Thread Group 1-65,text,false,,895,125,141,141,https://lifecharger.org/about,2161,0,1297
+1643185869654,21056,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-112,text,false,,2870,0,140,140,https://lifecharger.org/archives,0,0,21056
+1643185869825,21055,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-172,text,false,,2870,0,140,140,https://lifecharger.org/archives,0,0,21054
+1643185869831,21049,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-150,text,false,,2870,0,140,140,https://lifecharger.org/archives,0,0,21049
+1643185869884,21056,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-110,text,false,,2870,0,140,140,https://lifecharger.org/about,0,0,21056
+1643185869903,21053,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-88,text,false,,2870,0,139,139,https://lifecharger.org/about,0,0,21053
+1643185869972,21030,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-164,text,false,,2870,0,138,138,https://lifecharger.org/archives,0,0,21030
+1643185873446,17621,About,200,OK,Thread Group 1-124,text,true,,33248,251,138,138,https://lifecharger.org/about/,8019,0,971
+1643185873446,8019,About-0,301,Moved Permanently,Thread Group 1-124,text,true,,572,125,138,138,https://lifecharger.org/about,8019,0,971
+1643185881465,9602,About-1,200,OK,Thread Group 1-124,text,true,,32676,126,138,138,https://lifecharger.org/about/,9321,0,0
+1643185870106,21051,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-170,text,false,,2870,0,137,137,https://lifecharger.org/archives,0,0,21051
+1643185870118,21055,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-169,text,false,,2870,0,137,137,https://lifecharger.org/archives,0,0,21055
+1643185870140,21034,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-193,text,false,,2870,0,137,137,https://lifecharger.org/archives,0,0,21034
+1643185870131,21047,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-80,text,false,,2870,0,137,137,https://lifecharger.org/about,0,0,21047
+1643185870151,21062,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-189,text,false,,2870,0,136,136,https://lifecharger.org/archives,0,0,21062
+1643185870168,21050,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-187,text,false,,2870,0,136,136,https://lifecharger.org/archives,0,0,21050
+1643185870169,21051,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-22,text,false,,2870,0,136,136,https://lifecharger.org/about,0,0,21051
+1643185888911,2313,About,500,Internal Server Error,Thread Group 1-122,text,false,,895,125,135,135,https://lifecharger.org/about,2312,0,1748
+1643185882683,8554,Archives,500,Internal Server Error,Thread Group 1-129,text,false,,1422,257,134,134,https://lifecharger.org/archives/,8047,0,1387
+1643185882683,8047,Archives-0,301,Moved Permanently,Thread Group 1-129,text,true,,527,128,134,134,https://lifecharger.org/archives,8047,0,1387
+1643185890730,507,Archives-1,500,Internal Server Error,Thread Group 1-129,text,false,,895,129,134,134,https://lifecharger.org/archives/,506,0,0
+1643185870213,21026,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-84,text,false,,2870,0,134,134,https://lifecharger.org/about,0,0,21026
+1643185870197,21053,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-101,text,false,,2870,0,133,133,https://lifecharger.org/about,0,0,21052
+1643185870198,21055,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-58,text,false,,2870,0,132,132,https://lifecharger.org/about,0,0,21055
+1643185870307,21050,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-133,text,false,,2870,0,131,131,https://lifecharger.org/archives,0,0,21050
+1643185870350,21052,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-55,text,false,,2870,0,131,131,https://lifecharger.org/about,0,0,21052
+1643185870442,21052,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-119,text,false,,2870,0,130,130,https://lifecharger.org/archives,0,0,21052
+1643185870444,21050,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-105,text,false,,2870,0,130,130,https://lifecharger.org/about,0,0,21050
+1643185870466,21043,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-82,text,false,,2870,0,129,129,https://lifecharger.org/about,0,0,21043
+1643185870487,21054,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-57,text,false,,2870,0,128,128,https://lifecharger.org/about,0,0,21053
+1643185870511,21045,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-157,text,false,,2870,0,127,127,https://lifecharger.org/archives,0,0,21045
+1643185870507,21049,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-197,text,false,,2870,0,127,127,https://lifecharger.org/about,0,0,21049
+1643185875578,16126,About,200,OK,Thread Group 1-53,text,true,,33248,251,126,126,https://lifecharger.org/about/,8024,0,1578
+1643185875578,8024,About-0,301,Moved Permanently,Thread Group 1-53,text,true,,572,125,126,126,https://lifecharger.org/about,8024,0,1578
+1643185883603,8101,About-1,200,OK,Thread Group 1-53,text,true,,32676,126,126,126,https://lifecharger.org/about/,7818,0,0
+1643185870689,21052,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-149,text,false,,2870,0,125,125,https://lifecharger.org/archives,0,0,21052
+1643185870688,21053,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-138,text,false,,2870,0,125,125,https://lifecharger.org/about,0,0,21053
+1643185870701,21056,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-75,text,false,,2870,0,124,124,https://lifecharger.org/about,0,0,21056
+1643185870740,21049,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-141,text,false,,2870,0,123,123,https://lifecharger.org/archives,0,0,21049
+1643185870734,21055,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-125,text,false,,2870,0,123,123,https://lifecharger.org/about,0,0,21055
+1643185874769,17040,About,200,OK,Thread Group 1-17,text,true,,33248,251,122,122,https://lifecharger.org/about/,8087,0,1616
+1643185874769,8087,About-0,301,Moved Permanently,Thread Group 1-17,text,true,,572,125,122,122,https://lifecharger.org/about,8087,0,1616
+1643185882857,8952,About-1,200,OK,Thread Group 1-17,text,true,,32676,126,122,122,https://lifecharger.org/about/,8672,0,0
+1643185870808,21058,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-9,text,false,,2870,0,121,121,https://lifecharger.org/about,0,0,21058
+1643185870811,21055,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-86,text,false,,2870,0,121,121,https://lifecharger.org/about,0,0,21055
+1643185870807,21060,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-134,text,false,,2870,0,119,119,https://lifecharger.org/archives,0,0,21060
+1643185870850,21047,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-12,text,false,,2870,0,119,119,https://lifecharger.org/about,0,0,21047
+1643185870850,21063,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-52,text,false,,2870,0,118,118,https://lifecharger.org/about,0,0,21062
+1643185870880,21064,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-4,text,false,,2870,0,117,117,https://lifecharger.org/about,0,0,21064
+1643185870983,21055,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-186,text,false,,2870,0,116,116,https://lifecharger.org/about,0,0,21054
+1643185870995,21059,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-63,text,false,,2870,0,115,115,https://lifecharger.org/about,0,0,21058
+1643185871044,21040,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-77,text,false,,2870,0,114,114,https://lifecharger.org/about,0,0,21040
+1643185871033,21051,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-136,text,false,,2870,0,114,114,https://lifecharger.org/archives,0,0,21051
+1643185871073,21042,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-131,text,false,,2870,0,113,113,https://lifecharger.org/archives,0,0,21042
+1643185871070,21045,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-98,text,false,,2870,0,113,113,https://lifecharger.org/about,0,0,21045
+1643185871091,21040,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-68,text,false,,2870,0,112,112,https://lifecharger.org/about,0,0,21040
+1643185871083,21048,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-37,text,false,,2870,0,112,112,https://lifecharger.org/about,0,0,21048
+1643185871115,21051,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-73,text,false,,2870,0,110,110,https://lifecharger.org/about,0,0,21050
+1643185871130,21048,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-200,text,false,,2870,0,109,109,https://lifecharger.org/archives,0,0,21048
+1643185871294,21039,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-167,text,false,,2870,0,109,109,https://lifecharger.org/about,0,0,21038
+1643185871284,21052,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-71,text,false,,2870,0,108,108,https://lifecharger.org/about,0,0,21052
+1643185882899,9476,Archives,500,Internal Server Error,Thread Group 1-185,text,false,,1422,257,107,107,https://lifecharger.org/archives/,8709,0,1250
+1643185882899,8709,Archives-0,301,Moved Permanently,Thread Group 1-185,text,true,,527,128,107,107,https://lifecharger.org/archives,8709,0,1250
+1643185891609,766,Archives-1,500,Internal Server Error,Thread Group 1-185,text,false,,895,129,107,107,https://lifecharger.org/archives/,765,0,0
+1643185871388,21038,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-127,text,false,,2870,0,107,107,https://lifecharger.org/about,0,0,21038
+1643185882971,9480,Archives,500,Internal Server Error,Thread Group 1-192,text,false,,1422,257,106,106,https://lifecharger.org/archives/,8578,0,1181
+1643185882971,8578,Archives-0,301,Moved Permanently,Thread Group 1-192,text,true,,527,128,106,106,https://lifecharger.org/archives,8578,0,1181
+1643185891549,902,Archives-1,500,Internal Server Error,Thread Group 1-192,text,false,,895,129,106,106,https://lifecharger.org/archives/,901,0,0
+1643185890294,2180,About,500,Internal Server Error,Thread Group 1-118,text,false,,895,125,106,106,https://lifecharger.org/about,2179,0,1190
+1643185890308,2182,About,500,Internal Server Error,Thread Group 1-166,text,false,,895,125,105,105,https://lifecharger.org/about,2181,0,1187
+1643185871454,21050,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-48,text,false,,2870,0,104,104,https://lifecharger.org/about,0,0,21050
+1643185871454,21052,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-27,text,false,,2870,0,104,104,https://lifecharger.org/about,0,0,21051
+1643185882342,10200,About,500,Internal Server Error,Thread Group 1-142,text,false,,1467,251,102,102,https://lifecharger.org/about/,9286,0,1530
+1643185882342,9286,About-0,301,Moved Permanently,Thread Group 1-142,text,true,,572,125,102,102,https://lifecharger.org/about,9286,0,1530
+1643185891629,913,About-1,500,Internal Server Error,Thread Group 1-142,text,false,,895,126,102,102,https://lifecharger.org/about/,912,0,0
+1643185871534,21050,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-155,text,false,,2870,0,101,101,https://lifecharger.org/about,0,0,21050
+1643185890710,1888,About,500,Internal Server Error,Thread Group 1-112,text,false,,895,125,100,100,https://lifecharger.org/about,1886,0,817
+1643185871585,21043,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-59,text,false,,2870,0,99,99,https://lifecharger.org/about,0,0,21042
+1643185875122,17522,About,200,OK,Thread Group 1-21,text,true,,33248,251,98,98,https://lifecharger.org/about/,9355,0,1845
+1643185875122,9355,About-0,301,Moved Permanently,Thread Group 1-21,text,true,,572,125,98,98,https://lifecharger.org/about,9355,0,1845
+1643185884478,8166,About-1,200,OK,Thread Group 1-21,text,true,,32676,126,98,98,https://lifecharger.org/about/,7876,0,0
+1643185871663,21042,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-178,text,false,,2870,0,97,97,https://lifecharger.org/about,0,0,21042
+1643185871910,20837,Archives,200,OK,Thread Group 1-3,text,true,,54460,257,96,96,https://lifecharger.org/archives/,7519,0,0
+1643185871910,7519,Archives-0,301,Moved Permanently,Thread Group 1-3,text,true,,527,128,96,96,https://lifecharger.org/archives,7519,0,0
+1643185879430,13317,Archives-1,200,OK,Thread Group 1-3,text,true,,53933,129,96,96,https://lifecharger.org/archives/,13060,0,0
+1643185875407,17547,About,200,OK,Thread Group 1-29,text,true,,33248,251,96,96,https://lifecharger.org/about/,8215,0,1560
+1643185875407,8215,About-0,301,Moved Permanently,Thread Group 1-29,text,true,,572,125,96,96,https://lifecharger.org/about,8215,0,1560
+1643185883622,9332,About-1,200,OK,Thread Group 1-29,text,true,,32676,126,96,96,https://lifecharger.org/about/,9039,0,0
+1643185871949,21037,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-173,text,false,,2870,0,95,95,https://lifecharger.org/about,0,0,21037
+1643185871992,21042,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-171,text,false,,2870,0,94,94,https://lifecharger.org/about,0,0,21041
+1643185891558,1523,About,500,Internal Server Error,Thread Group 1-157,text,false,,895,125,93,93,https://lifecharger.org/about,1522,0,840
+1643185872147,21042,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-199,text,false,,2870,0,92,92,https://lifecharger.org/about,0,0,21042
+1643185892748,523,About,500,Internal Server Error,Thread Group 1-3,text,false,,895,125,91,91,https://lifecharger.org/about,521,0,0
+1643185891791,1489,About,500,Internal Server Error,Thread Group 1-141,text,false,,895,125,90,90,https://lifecharger.org/about,1488,0,870
+1643185872508,21038,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-123,text,false,,2870,0,89,89,https://lifecharger.org/about,0,0,21038
+1643185872554,21041,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-8,text,false,,2870,0,88,88,https://lifecharger.org/about,0,0,21041
+1643185872584,21040,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-156,text,false,,2870,0,87,87,https://lifecharger.org/about,0,0,21040
+1643185872608,21048,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-50,text,false,,2870,0,86,86,https://lifecharger.org/about,0,0,21048
+1643185892116,1571,About,500,Internal Server Error,Thread Group 1-131,text,false,,895,125,85,85,https://lifecharger.org/about,1569,0,857
+1643185872685,21062,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-145,text,false,,2870,0,84,84,https://lifecharger.org/about,0,0,21062
+1643185872757,21052,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-151,text,false,,2870,0,83,83,https://lifecharger.org/about,0,0,21052
+1643185892376,1530,About,500,Internal Server Error,Thread Group 1-185,text,false,,895,125,82,82,https://lifecharger.org/about,1528,0,846
+1643185892451,1878,About,500,Internal Server Error,Thread Group 1-192,text,false,,895,125,81,81,https://lifecharger.org/about,1877,0,806
+1643185882844,11491,Archives,500,Internal Server Error,Thread Group 1-190,text,false,,1422,257,80,80,https://lifecharger.org/archives/,10595,0,1304
+1643185882844,10595,Archives-0,301,Moved Permanently,Thread Group 1-190,text,true,,527,128,80,80,https://lifecharger.org/archives,10595,0,1304
+1643185893439,896,Archives-1,500,Internal Server Error,Thread Group 1-190,text,false,,895,129,80,80,https://lifecharger.org/archives/,894,0,0
+1643185873371,21046,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-32,text,false,,2870,0,80,80,https://lifecharger.org/about,0,0,21046
+1643185873456,21055,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-182,text,false,,2870,0,79,79,https://lifecharger.org/about,0,0,21055
+1643185880400,14421,About,200,OK,Thread Group 1-161,text,true,,33248,251,78,78,https://lifecharger.org/about/,7135,0,839
+1643185880400,7135,About-0,301,Moved Permanently,Thread Group 1-161,text,true,,572,125,78,78,https://lifecharger.org/about,7135,0,839
+1643185887535,7286,About-1,200,OK,Thread Group 1-161,text,true,,32676,126,78,78,https://lifecharger.org/about/,7020,0,0
+1643185873970,21041,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-15,text,false,,2870,0,77,77,https://lifecharger.org/about,0,0,21041
+1643185874622,21044,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-10,text,false,,2870,0,76,76,https://lifecharger.org/about,0,0,21044
+1643185874632,21049,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-28,text,false,,2870,0,75,75,https://lifecharger.org/about,0,0,21049
+1643185875367,21044,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-43,text,false,,2870,0,74,74,https://lifecharger.org/about,0,0,21044
+1643185875467,21053,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-38,text,false,,2870,0,73,73,https://lifecharger.org/about,0,0,21052
+1643185875473,21047,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-47,text,false,,2870,0,73,73,https://lifecharger.org/about,0,0,21047
+1643185875591,21069,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-33,text,false,,2870,0,71,71,https://lifecharger.org/about,0,0,21069
+1643185878744,21942,About,200,OK,Thread Group 1-175,text,true,,33267,251,70,70,https://lifecharger.org/about/,8732,0,553
+1643185878744,8732,About-0,301,Moved Permanently,Thread Group 1-175,text,true,,572,125,70,70,https://lifecharger.org/about,8732,0,553
+1643185887477,13209,About-1,200,OK,Thread Group 1-175,text,true,,32695,126,70,70,https://lifecharger.org/about/,12932,0,0
+1643185883035,21055,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-194,text,false,,2870,0,69,69,https://lifecharger.org/archives,0,0,21055
+1643185883892,21038,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-116,text,false,,2870,0,69,69,https://lifecharger.org/archives,0,0,21038
+1643185883974,21035,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-25,text,false,,2870,0,69,69,https://lifecharger.org/about,0,0,21034
+1643185886882,18563,About,200,OK,Thread Group 1-64,text,true,,33248,251,68,68,https://lifecharger.org/about/,8461,0,864
+1643185886882,8461,About-0,301,Moved Permanently,Thread Group 1-64,text,true,,572,125,68,68,https://lifecharger.org/about,8461,0,864
+1643185895344,10101,About-1,200,OK,Thread Group 1-64,text,true,,32676,126,68,68,https://lifecharger.org/about/,9438,0,0
+1643185888705,16845,About,200,OK,Thread Group 1-153,text,true,,33248,251,67,67,https://lifecharger.org/about/,9717,0,1468
+1643185888705,9717,About-0,301,Moved Permanently,Thread Group 1-153,text,true,,572,125,67,67,https://lifecharger.org/about,9717,0,1468
+1643185898422,7128,About-1,200,OK,Thread Group 1-153,text,true,,32676,126,67,67,https://lifecharger.org/about/,6440,0,0
+1643185884901,21048,Archives,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-196,text,false,,2870,0,66,66,https://lifecharger.org/archives,0,0,21048
+1643185886897,19254,About,200,OK,Thread Group 1-41,text,true,,33248,251,66,66,https://lifecharger.org/about/,11418,0,854
+1643185886897,11418,About-0,301,Moved Permanently,Thread Group 1-41,text,true,,572,125,66,66,https://lifecharger.org/about,11418,0,854
+1643185898315,7836,About-1,200,OK,Thread Group 1-41,text,true,,32676,126,66,66,https://lifecharger.org/about/,7575,0,0
+1643185886606,20184,About,200,OK,Thread Group 1-69,text,true,,33253,251,65,65,https://lifecharger.org/about/,11869,0,873
+1643185886606,11869,About-0,301,Moved Permanently,Thread Group 1-69,text,true,,572,125,65,65,https://lifecharger.org/about,11869,0,873
+1643185898475,8315,About-1,200,OK,Thread Group 1-69,text,true,,32681,126,65,65,https://lifecharger.org/about/,8031,0,0
+1643185886755,20556,About,200,OK,Thread Group 1-87,text,true,,33248,251,64,64,https://lifecharger.org/about/,10935,0,818
+1643185886755,10935,About-0,301,Moved Permanently,Thread Group 1-87,text,true,,572,125,64,64,https://lifecharger.org/about,10935,0,818
+1643185897690,9621,About-1,200,OK,Thread Group 1-87,text,true,,32676,126,64,64,https://lifecharger.org/about/,8828,0,0
+1643185886879,20443,About,200,OK,Thread Group 1-76,text,true,,33248,251,63,63,https://lifecharger.org/about/,10815,0,820
+1643185886879,10815,About-0,301,Moved Permanently,Thread Group 1-76,text,true,,572,125,63,63,https://lifecharger.org/about,10815,0,820
+1643185897695,9627,About-1,200,OK,Thread Group 1-76,text,true,,32676,126,63,63,https://lifecharger.org/about/,8823,0,0
+1643185886586,21049,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-45,text,false,,2870,0,62,62,https://lifecharger.org/about,0,0,21049
+1643185886602,21049,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-23,text,false,,2870,0,61,61,https://lifecharger.org/about,0,0,21049
+1643185886606,21045,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-104,text,false,,2870,0,61,61,https://lifecharger.org/about,0,0,21045
+1643185886614,21037,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-107,text,false,,2870,0,61,61,https://lifecharger.org/about,0,0,21037
+1643185886616,21051,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-103,text,false,,2870,0,58,58,https://lifecharger.org/about,0,0,21051
+1643185886617,21050,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-90,text,false,,2870,0,58,58,https://lifecharger.org/about,0,0,21050
+1643185886616,21051,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-96,text,false,,2870,0,58,58,https://lifecharger.org/about,0,0,21051
+1643185890248,17483,About,200,OK,Thread Group 1-147,text,true,,33267,251,55,55,https://lifecharger.org/about/,8166,0,1225
+1643185890248,8166,About-0,301,Moved Permanently,Thread Group 1-147,text,true,,591,125,55,55,https://lifecharger.org/about,8166,0,1225
+1643185898414,9317,About-1,200,OK,Thread Group 1-147,text,true,,32676,126,55,55,https://lifecharger.org/about/,9053,0,822
+1643185886694,21051,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-83,text,false,,2870,0,54,54,https://lifecharger.org/about,0,0,21051
+1643185891220,16555,About,200,OK,Thread Group 1-187,text,true,,33248,251,53,53,https://lifecharger.org/about/,8322,0,884
+1643185891220,8322,About-0,301,Moved Permanently,Thread Group 1-187,text,true,,572,125,53,53,https://lifecharger.org/about,8322,0,884
+1643185899543,8232,About-1,200,OK,Thread Group 1-187,text,true,,32676,126,53,53,https://lifecharger.org/about/,7970,0,0
+1643185886986,21040,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-7,text,false,,2870,0,52,52,https://lifecharger.org/about,0,0,21040
+1643185886987,21040,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-30,text,false,,2870,0,52,52,https://lifecharger.org/about,0,0,21040
+1643185886979,21054,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-67,text,false,,2870,0,50,50,https://lifecharger.org/about,0,0,21054
+1643185886986,21048,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-54,text,false,,2870,0,49,49,https://lifecharger.org/about,0,0,21048
+1643185887094,21057,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-19,text,false,,2870,0,48,48,https://lifecharger.org/about,0,0,21057
+1643185887124,21039,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-5,text,false,,2870,0,47,47,https://lifecharger.org/about,0,0,21039
+1643185887155,21039,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-198,text,false,,2870,0,46,46,https://lifecharger.org/about,0,0,21039
+1643185887482,21035,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-181,text,false,,2870,0,45,45,https://lifecharger.org/about,0,0,21035
+1643185887031,21524,About,200,OK,Thread Group 1-1,text,true,,33248,251,44,44,https://lifecharger.org/about/,11424,0,820
+1643185887031,11424,About-0,301,Moved Permanently,Thread Group 1-1,text,true,,572,125,44,44,https://lifecharger.org/about,11424,0,820
+1643185898455,10100,About-1,200,OK,Thread Group 1-1,text,true,,32676,126,44,44,https://lifecharger.org/about/,9841,0,0
+1643185888782,19829,About,200,OK,Thread Group 1-111,text,true,,33248,251,43,43,https://lifecharger.org/about/,11670,0,1605
+1643185888782,11670,About-0,301,Moved Permanently,Thread Group 1-111,text,true,,572,125,43,43,https://lifecharger.org/about,11670,0,1605
+1643185900453,8158,About-1,200,OK,Thread Group 1-111,text,true,,32676,126,43,43,https://lifecharger.org/about/,7865,0,0
+1643185886709,21908,About,200,OK,Thread Group 1-95,text,true,,33248,251,42,42,https://lifecharger.org/about/,10177,0,837
+1643185886709,10177,About-0,301,Moved Permanently,Thread Group 1-95,text,true,,572,125,42,42,https://lifecharger.org/about,10177,0,837
+1643185896887,11730,About-1,200,OK,Thread Group 1-95,text,true,,32676,126,42,42,https://lifecharger.org/about/,11416,0,0
+1643185886615,22025,About,200,OK,Thread Group 1-99,text,true,,33248,251,41,41,https://lifecharger.org/about/,13747,0,865
+1643185886615,13747,About-0,301,Moved Permanently,Thread Group 1-99,text,true,,572,125,41,41,https://lifecharger.org/about,13747,0,865
+1643185900363,8277,About-1,200,OK,Thread Group 1-99,text,true,,32676,126,41,41,https://lifecharger.org/about/,8008,0,0
+1643185890292,18348,About,200,OK,Thread Group 1-152,text,true,,33248,251,41,41,https://lifecharger.org/about/,11138,0,1192
+1643185890292,11138,About-0,301,Moved Permanently,Thread Group 1-152,text,true,,572,125,41,41,https://lifecharger.org/about,11138,0,1192
+1643185901431,7209,About-1,200,OK,Thread Group 1-152,text,true,,32676,126,41,41,https://lifecharger.org/about/,6931,0,0
+1643185889534,19108,About,200,OK,Thread Group 1-168,text,true,,33248,251,40,40,https://lifecharger.org/about/,10905,0,1532
+1643185889534,10905,About-0,301,Moved Permanently,Thread Group 1-168,text,true,,572,125,40,40,https://lifecharger.org/about,10905,0,1532
+1643185900440,8202,About-1,200,OK,Thread Group 1-168,text,true,,32676,126,40,40,https://lifecharger.org/about/,7935,0,0
+1643185890143,18507,About,200,OK,Thread Group 1-195,text,true,,33248,251,38,38,https://lifecharger.org/about/,8280,0,1193
+1643185890143,8280,About-0,301,Moved Permanently,Thread Group 1-195,text,true,,572,125,38,38,https://lifecharger.org/about,8280,0,1193
+1643185898424,10226,About-1,200,OK,Thread Group 1-195,text,true,,32676,126,38,38,https://lifecharger.org/about/,9952,0,0
+1643185889376,19281,About,200,OK,Thread Group 1-176,text,true,,33248,251,37,37,https://lifecharger.org/about/,12019,0,1550
+1643185889376,12019,About-0,301,Moved Permanently,Thread Group 1-176,text,true,,572,125,37,37,https://lifecharger.org/about,12019,0,1550
+1643185901396,7261,About-1,200,OK,Thread Group 1-176,text,true,,32676,126,37,37,https://lifecharger.org/about/,7001,0,0
+1643185887743,21035,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-184,text,false,,2870,0,36,36,https://lifecharger.org/about,0,0,21035
+1643185890884,17908,About,200,OK,Thread Group 1-150,text,true,,33248,251,35,35,https://lifecharger.org/about/,12504,0,847
+1643185890884,12504,About-0,301,Moved Permanently,Thread Group 1-150,text,true,,572,125,35,35,https://lifecharger.org/about,12504,0,847
+1643185903388,5404,About-1,200,OK,Thread Group 1-150,text,true,,32676,126,35,35,https://lifecharger.org/about/,5142,0,0
+1643185888146,21038,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-160,text,false,,2870,0,34,34,https://lifecharger.org/about,0,0,21038
+1643185888159,21041,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-120,text,false,,2870,0,33,33,https://lifecharger.org/about,0,0,21041
+1643185888175,21040,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-154,text,false,,2870,0,32,32,https://lifecharger.org/about,0,0,21040
+1643185888175,21040,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-140,text,false,,2870,0,32,32,https://lifecharger.org/about,0,0,21040
+1643185888481,21057,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-177,text,false,,2870,0,30,30,https://lifecharger.org/about,0,0,21057
+1643185894335,15230,About,200,OK,Thread Group 1-190,text,true,,33248,251,29,29,https://lifecharger.org/about/,9062,0,809
+1643185894335,9062,About-0,301,Moved Permanently,Thread Group 1-190,text,true,,572,125,29,29,https://lifecharger.org/about,9062,0,809
+1643185903398,6167,About-1,200,OK,Thread Group 1-190,text,true,,32676,126,29,29,https://lifecharger.org/about/,5908,0,0
+1643185888531,21039,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-97,text,false,,2870,0,28,28,https://lifecharger.org/about,0,0,21039
+1643185888534,21036,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-117,text,false,,2870,0,28,28,https://lifecharger.org/about,0,0,21036
+1643185886694,22911,About,200,OK,Thread Group 1-109,text,true,,33248,251,26,26,https://lifecharger.org/about/,13702,0,852
+1643185886694,13702,About-0,301,Moved Permanently,Thread Group 1-109,text,true,,572,125,26,26,https://lifecharger.org/about,13702,0,852
+1643185900396,9209,About-1,200,OK,Thread Group 1-109,text,true,,32676,126,26,26,https://lifecharger.org/about/,8946,0,0
+1643185892085,17553,About,200,OK,Thread Group 1-136,text,true,,33248,251,25,25,https://lifecharger.org/about/,12738,0,871
+1643185892085,12738,About-0,301,Moved Permanently,Thread Group 1-136,text,true,,572,125,25,25,https://lifecharger.org/about,12738,0,871
+1643185904824,4814,About-1,200,OK,Thread Group 1-136,text,true,,32676,126,25,25,https://lifecharger.org/about/,4552,0,0
+1643185888658,21035,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-115,text,false,,2870,0,24,24,https://lifecharger.org/about,0,0,21035
+1643185882682,27174,Archives,200,OK,Thread Group 1-180,text,true,,54470,257,23,23,https://lifecharger.org/archives/,11687,0,1370
+1643185882682,11687,Archives-0,301,Moved Permanently,Thread Group 1-180,text,true,,527,128,23,23,https://lifecharger.org/archives,11687,0,1370
+1643185894369,15487,Archives-1,200,OK,Thread Group 1-180,text,true,,53943,129,23,23,https://lifecharger.org/archives/,14967,0,0
+1643185889202,21035,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-174,text,false,,2870,0,23,23,https://lifecharger.org/about,0,0,21034
+1643185889217,21035,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-121,text,false,,2870,0,22,22,https://lifecharger.org/about,0,0,21035
+1643185904091,6674,About,200,OK,Thread Group 1-194,text,true,,33248,251,21,21,https://lifecharger.org/about/,5370,0,1799
+1643185904091,5370,About-0,301,Moved Permanently,Thread Group 1-194,text,true,,572,125,21,21,https://lifecharger.org/about,5370,0,1799
+1643185909461,1304,About-1,200,OK,Thread Group 1-194,text,true,,32676,126,21,21,https://lifecharger.org/about/,1042,0,0
+1643185905950,4862,About,200,OK,Thread Group 1-196,text,true,,33248,251,20,20,https://lifecharger.org/about/,3583,0,840
+1643185905950,3583,About-0,301,Moved Permanently,Thread Group 1-196,text,true,,572,125,20,20,https://lifecharger.org/about,3583,0,840
+1643185909533,1279,About-1,200,OK,Thread Group 1-196,text,true,,32676,126,20,20,https://lifecharger.org/about/,1017,0,0
+1643185889905,21045,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-132,text,false,,2870,0,19,19,https://lifecharger.org/about,0,0,21045
+1643185890153,21014,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-139,text,false,,2870,0,18,18,https://lifecharger.org/about,0,0,21014
+1643185890496,21041,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-146,text,false,,2870,0,17,17,https://lifecharger.org/about,0,0,21041
+1643185890883,21043,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-172,text,false,,2870,0,16,16,https://lifecharger.org/about,0,0,21043
+1643185891005,21045,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-164,text,false,,2870,0,15,15,https://lifecharger.org/about,0,0,21045
+1643185891159,21032,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-170,text,false,,2870,0,14,14,https://lifecharger.org/about,0,0,21032
+1643185891177,21044,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-193,text,false,,2870,0,13,13,https://lifecharger.org/about,0,0,21044
+1643185891175,21046,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-169,text,false,,2870,0,13,13,https://lifecharger.org/about,0,0,21046
+1643185891215,21038,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-189,text,false,,2870,0,11,11,https://lifecharger.org/about,0,0,21038
+1643185891238,21045,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-129,text,false,,2870,0,10,10,https://lifecharger.org/about,0,0,21045
+1643185909857,2516,About,200,OK,Thread Group 1-180,text,true,,33248,251,9,9,https://lifecharger.org/about/,1052,0,0
+1643185909857,1052,About-0,301,Moved Permanently,Thread Group 1-180,text,true,,572,125,9,9,https://lifecharger.org/about,1052,0,0
+1643185910909,1464,About-1,200,OK,Thread Group 1-180,text,true,,32676,126,9,9,https://lifecharger.org/about/,1439,0,0
+1643185891496,21053,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-119,text,false,,2870,0,8,8,https://lifecharger.org/about,0,0,21053
+1643185891743,21055,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-149,text,false,,2870,0,7,7,https://lifecharger.org/about,0,0,21055
+1643185891870,21054,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-134,text,false,,2870,0,6,6,https://lifecharger.org/about,0,0,21053
+1643185892180,21040,About,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-200,text,false,,2870,0,5,5,https://lifecharger.org/about,0,0,21040
+1643185886615,27857,About,200,OK,Thread Group 1-102,text,true,,33272,251,4,4,https://lifecharger.org/about/,10063,0,836
+1643185886615,10063,About-0,301,Moved Permanently,Thread Group 1-102,text,true,,591,125,4,4,https://lifecharger.org/about,10063,0,836
+1643185896678,17794,About-1,200,OK,Thread Group 1-102,text,true,,32681,126,4,4,https://lifecharger.org/about/,17533,0,16449
+1643185904931,10592,About,200,OK,Thread Group 1-116,text,true,,33248,251,3,3,https://lifecharger.org/about/,9275,0,8268
+1643185904931,9275,About-0,301,Moved Permanently,Thread Group 1-116,text,true,,572,125,3,3,https://lifecharger.org/about,9275,0,8268
+1643185914206,1317,About-1,200,OK,Thread Group 1-116,text,true,,32676,126,3,3,https://lifecharger.org/about/,1057,0,0
+1643185891360,25317,About,200,OK,Thread Group 1-133,text,true,,33267,251,2,2,https://lifecharger.org/about/,8184,0,859
+1643185891360,8184,About-0,301,Moved Permanently,Thread Group 1-133,text,true,,591,125,2,2,https://lifecharger.org/about,8184,0,859
+1643185899544,17133,About-1,200,OK,Thread Group 1-133,text,true,,32676,126,2,2,https://lifecharger.org/about/,16862,0,15836
+1643185886771,30705,About,200,OK,Thread Group 1-93,text,true,,33272,251,1,1,https://lifecharger.org/about/,13592,0,823
+1643185886771,13592,About-0,301,Moved Permanently,Thread Group 1-93,text,true,,591,125,1,1,https://lifecharger.org/about,13592,0,823
+1643185900364,17112,About-1,200,OK,Thread Group 1-93,text,true,,32681,126,1,1,https://lifecharger.org/about/,16855,0,15809
